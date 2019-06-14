@@ -93,22 +93,6 @@
                 </v-card-actions>
               </v-card>
             </v-flex>
-
-            <v-flex xs12>
-              <v-card color="rgba(0,0,0,0.7)" class="white--text">
-                <v-card-title primary-title>
-                  <div>
-                    <div class="headline">SeaRock</div>
-                    <span
-                      class="subheading"
-                    >One of the most grandiose semi-pro rock band competitions in the country. Alumni of the likes of Zygnema, The Family Cheese, Knight Shades, and Inner Sanctum. Bringing you enticing opportunities to showcase your talents, Searock is back with its 15th iteration this fall.</span>
-                  </div>
-                </v-card-title>
-                <v-card-actions>
-                  <v-btn flat dark>Register now</v-btn>
-                </v-card-actions>
-              </v-card>
-            </v-flex>
           </v-layout>
         </v-container>
       </v-card>
@@ -483,6 +467,158 @@
         </v-container>
       </v-card>
     </div>
+
+    <!-- Fashion -->
+    <div id="Fashion" style="margin: auto;" class="grey lighten-3">
+      <v-toolbar color="pink" dark>
+      <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FASHION</v-toolbar-title>
+        <v-spacer></v-spacer>
+      </v-toolbar>
+      <v-card color="white">
+        <v-container fluid grid-list-lg>
+          <v-layout row wrap>
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Fashion Parade</div>
+                    <span
+                      class="subheading"
+                    >This is our fashion design and choreography competition and it receives participation from teams coming from over 100 colleges. It is one of the most highly anticipated events in the fest. FashP has provided a platform to students to show their taste and style in fashion. Fire up the ramp with your panache and confidence in this battle of beauty and style.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-container>
+      </v-card>
+    </div>
+    <!-- Quiz -->
+    <div id="Quiz" style="margin: auto;" class="grey lighten-3">
+      <v-toolbar color="pink" dark>
+        <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">QUIZ</v-toolbar-title>
+        <v-spacer></v-spacer>
+      </v-toolbar>
+      <v-card color="white">
+        <v-container fluid grid-list-lg>
+          <v-layout row wrap>
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">WAVES OPEN</div>
+                    <span
+                      class="subheading"
+                    >“The fifth Grand Slam of the year.“</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.6)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">THE VICES QUIZ</div>
+                    <span
+                      class="subheading"
+                    >“There is no God here.”</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.5)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">VOYAGE – The Travel and Living Quiz</div>
+                    <span
+                      class="subheading"
+                    >“How far do you think you can go? “</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.45)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">MELAS</div>
+                    <span
+                      class="subheading"
+                    >“Everything irrelevant to life”</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-container>
+      </v-card>
+    </div>
+
+     <!-- Photography -->
+    <div id="Photography" style="margin: auto;" class="grey lighten-3">
+      <v-toolbar color="pink" dark>
+        <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">PHOTOGRAPHY</v-toolbar-title>
+        <v-spacer></v-spacer>
+      </v-toolbar>
+      <v-card color="white" >
+        <v-container fluid grid-list-lg>
+          <v-layout row wrap>
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">SHO(R)T</div>
+                    <span
+                      class="subheading"
+                    >Short is a themed team short film competition. This competition takes place online, and is a great platform for budding filmmakers and film enthusiasts to hone their skills and show off their work. The winning film has the amazing opportunity to get published online.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.6)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Oh Snap!</div>
+                    <span
+                      class="subheading"
+                    >Oh Snap is a team photography competition. This competition takes place online and all the submissions follow a certain theme. Oh Snap is a great opportunity for a photographer to show off what the world looks like through their eyes and what an idea means to them.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+            </v-layout>
+        </v-container>
+      </v-card>
+    </div>
+
+            
 
     <!-- Specials -->
     <div id="Specials" style="margin: auto;" class="grey lighten-3">
