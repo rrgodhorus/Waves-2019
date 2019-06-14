@@ -21,6 +21,100 @@
       </transition-group>
       <img src="map.jpg" alt @click="closeDetails">
     </div>
+    <!-- Dance -->
+    <div id="Dance" style="margin: auto;" class="grey lighten-3">
+      <v-toolbar color="pink" dark>
+        <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DANCE</v-toolbar-title>
+        <v-spacer></v-spacer>
+      </v-toolbar>
+      <v-card color="white" >
+        <v-container fluid grid-list-lg>
+          <v-layout row wrap>
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Dancing Duo</div>
+                    <span
+                      class="subheading"
+                    >Dancing Duo is a duet dancing competition. Contestants come in pairs and dance their way through multiple engaging rounds while showcasing their dancing skills and chemistry. This event attracts dancers from various styles and makes for a great crowd-pleaser and is definitely a must-watch!</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.6)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Natyanjali</div>
+                    <span
+                      class="subheading"
+                    >Natyanjali is one of the Big Four events of Waves. Natyanjali is a stage team dance competition that has colleges from all across the country bringing their best. There are two categories in this event: Thematic where teams convey a message through their dance and Non-thematic where the teams perform anything they wish. Teams will be performing their own prepared dance sequences on a stage, in front of a judging panel. Each team will be  judged against the other teams performing under the same category, i.e. Thematic or Non-thematic.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.5)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Footloose</div>
+                    <span
+                      class="subheading"
+                    >Footloose is the newest addition to the Dance Events of Waves, with its second edition taking place this Waves. This is a team street dance battle where teams from all over the country take it to the streets and face off to see who’s really the best. Footloose is already a crowd favourite, and the competition just gets bigger and better.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.45)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Sizzle</div>
+                    <span
+                      class="subheading"
+                    >Sizzle is a solo street dance battle event. The dancers bring their own flare, making the one-on-one battles intense! Being one of the most anticipated events of Waves, Sizzle proves to get bigger and better with each edition. The highlight of this event is the Final face-offs that take place out on the streets, amidst energetic, cheering crowds.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.7)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">SeaRock</div>
+                    <span
+                      class="subheading"
+                    >One of the most grandiose semi-pro rock band competitions in the country. Alumni of the likes of Zygnema, The Family Cheese, Knight Shades, and Inner Sanctum. Bringing you enticing opportunities to showcase your talents, Searock is back with its 15th iteration this fall.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-container>
+      </v-card>
+    </div>
+
+    <!-- Music -->
     <div id="Music" style="margin: auto;" class="grey lighten-3">
       <v-toolbar color="pink" dark>
         <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">MUSIC</v-toolbar-title>
@@ -112,6 +206,395 @@
         </v-container>
       </v-card>
     </div>
+
+    <!-- Drama -->
+    <div id="Drama" style="margin: auto;" class="grey lighten-3">
+      <v-toolbar color="pink" dark>
+      <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DRAMA</v-toolbar-title>
+        <v-spacer></v-spacer>
+      </v-toolbar>
+      <v-card color="white">
+        <v-container fluid grid-list-lg>
+          <v-layout row wrap>
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Nukkad Natak</div>
+                    <span
+                      class="subheading"
+                    >A street play addresses a public issue and engages the public through its intensity and vivid scenes. Gather your crew, build up your scenes, compose your jingles, and join us in Nukkad Natak, the street play event, to put up a captivating production to impress the masses.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.6)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Rangmanch</div>
+                    <span
+                      class="subheading"
+                    >All the world’s a stage, so round up your cast and bring the stage to life, in Rangmanch, the stage play event. Participants get the opportunity to perform a play of their choice and display their acting skills, engaging the audience with their words, music and theatrics.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-container>
+      </v-card>
+    </div>
+
+    <!-- Design -->
+    <div id="Design" style="margin: auto;" class="grey lighten-3">
+      <v-toolbar color="pink" dark>
+        <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DESIGN</v-toolbar-title>
+        <v-spacer></v-spacer>
+      </v-toolbar>
+      <v-card color="white">
+        <v-container fluid grid-list-lg>
+          <v-layout row wrap>
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Let's not get wasted</div>
+                    <span
+                      class="subheading"
+                    >This is an artsy event where you make use of your creativity. You will be given some (useful) waste and you have to make the most creative thing you can, according to the (secret) theme that will be given on spot.
+                    <br />“CReativity is contagious, pass it on.”-Albert Einstein</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.6)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">moTEEf</div>
+                    <span
+                      class="subheading"
+                    >We’ve got a creativity challenge for you. With a theme that will be provided on spot you will have to use your imaginative powers to design a T-shirt. The final round will include transforming a plain white T-shirt into a cool and trendy fashion statement outfit! So team up and get creative.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.5)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Kick Start</div>
+                    <span
+                      class="subheading"
+                    >You will have to make use of your complete creativity in this design contest. Participants will be given a dull white sneaker. This piece of footwear needs to be transformed into a cool and trendy looking sneaker by you. The theme will be given on the spot. Are you up for the challenge?</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.45)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Avant-garde</div>
+                    <span
+                      class="subheading"
+                    >Find your inner diva with our new design event: avant-garde, literally translating to people or works that are experimental, radical, or unorthodox with respect to art, culture, or society. Here you have to put together the most creative and realistic outfit according to the theme, and here's the challenge, with your everyday clothes! Only people who loves challenges may enter!!! </span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-container>
+      </v-card>
+    </div>
+
+    <!-- Fine Arts -->
+    <div id="Fine arts" style="margin: auto;" class="grey lighten-3">
+      <v-toolbar color="pink" dark>
+        <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FINE ARTS</v-toolbar-title>
+        <v-spacer></v-spacer>
+      </v-toolbar>
+      <v-card color="white">
+        <v-container fluid grid-list-lg>
+          <v-layout row wrap>
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Artathon</div>
+                    <span
+                      class="subheading"
+                    >Artathon is exactly what it sounds like: a marathon of Art. With 3 surprise rounds, this event tests your creativity and makes you think on your feet. Each round tests different artistic skills, requiring the artists to express their ideas in their artwork.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.6)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Blind Art</div>
+                    <span
+                      class="subheading"
+                    >This fun event involves teams of two, where one describes the item to be drawn, and the other (blindfolded) artist draws the same, based on the description. Which pair has the best communication and trust? Try it and find out!</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.5)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Just Fold It</div>
+                    <span
+                      class="subheading"
+                    >The Japanese art of paper folding is not as simple as it seems. Create a colourful composition from the given paper sheets and present it to the judges.Join us, and turn an ordinary square sheet of paper into an extraordinary creation of your own, using Origami and your imagination!</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-container>
+      </v-card>
+    </div>
+
+    <!-- Carpe Dictum -->
+    <div id="Carpe Dictum" style="margin: auto;" class="grey lighten-3">
+      <v-toolbar color="pink" dark>
+        <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">CARPE DICTUM</v-toolbar-title>
+        <v-spacer></v-spacer>
+      </v-toolbar>
+      <v-card color="white">
+        <v-container fluid grid-list-lg>
+          <v-layout row wrap>
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">InVerse</div>
+                    <span
+                      class="subheading"
+                    >The national poetry slam for Waves ‘19 is your ticket into the world of the spoken word.Time to break out the old meter, dust off that rhythm and put those poetic devices to work to deliver a performance of a lifetime. If spoken word poetry is your passion, this is the place to be. Fabulous prizes await!</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.6)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Cultural Gauntlet</div>
+                    <span
+                      class="subheading"
+                    >The cultural gauntlet is the perfect place to put your skills of the English language to the test. Whether it is maintaining grammatical accuracy in Just-a-Minute, going head to head for a lifejacket to escape a hypothetical sinking ship in ShipWreck or switching views on the fly in Block and Tackle. The Cultural Gauntlet has got all your bases covered!</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.5)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Lit Quiz</div>
+                    <span
+                      class="subheading"
+                    >The Literary Quiz of Waves 2019 is your ultimate destination to put to use the endless hours spent poring over everything that's lit; Chaucer to Chandra, Wordsworth to Wodehouse, nothing is off-limits for this no-holds barred battle for the prize. Literary; it's literally just this.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.45)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Word Games</div>
+                    <span
+                      class="subheading"
+                    >The ultimate test of your mastery of the written word! Whether you’re a practiced word wizard or just looking to kill some time with a refreshing detox, our carefully curated collection is right up to the task. Tackle a fun miscellanea of crafty puzzles - puns, palindromes, cryptic crosswords and so much more - as you valiantly vie to be the victorious virtuoso. Let the (word) games begin!</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.7)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Contention </div>
+                    <span
+                      class="subheading"
+                    >Contention is BITS Goa's very own Parliamentary Debate Competition. Hosted in the British Parliamentary format and with over a 100 participants, stimulating motions, an array of prolific core adjudicators and amazing cash prizes, it is a tournament not to be missed by any debater</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-container>
+      </v-card>
+    </div>
+
+    <!-- Specials -->
+    <div id="Specials" style="margin: auto;" class="grey lighten-3">
+      <v-toolbar color="pink" dark>
+        <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">SPECIALS</v-toolbar-title>
+        <v-spacer></v-spacer>
+      </v-toolbar>
+      <v-card color="white">
+        <v-container fluid grid-list-lg>
+          <v-layout row wrap>
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Strangely Familiar</div>
+                    <span
+                      class="subheading"
+                    >Strangely Familiar is a competition in which two participants, unknown to each other are paired up and get to know each other by participating in quizzes and games as multiple teams. Judges for this event are generally famous Youtubers like from the channel Filter Copy.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.6)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">SHOW ME THE FUNNY</div>
+                    <span
+                      class="subheading"
+                    >Show Me The Funny is a stand up comedy competition which provides a platform for emerging stand-up comedians of the country to showcase their talent.The eliminations shall be held in a few cities all across the country, where participants shall perform a stand up comedy act in the allotted time . Another round will be held on Day 0 of Waves, which will be open to all. The winners of this round,as well as the winners of the national eliminations held in the various cities will compete in the final round.The winner will have the golden oppprtunity to open for the Waves comedy night.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.5)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Newsance</div>
+                    <span
+                      class="subheading"
+                    >How many of us have seen press conferences on television before?  Those of MS Dhoni or maybe even Trump? Have you ever dreamt of being one of the interviewers?
+                     For the first time in Waves, DoJMA brings to you Newsance - the mock press conference. 
+                     Have a try at being a journalist in this thrilling event where participants compete in a fast paced environment to ask the most grilling and enticing questions!</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.45)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">Mr. and Ms. Waves</div>
+                    <span
+                      class="subheading"
+                    >Mr. and Miss Waves is one of the Big Four events of Waves. Held in the auditorium, it is a personality based contest packed with grueling interviews, impromptu performances and a cutthroat talent round. The highlight of this event is the notorious Notepad Guy, who makes each performance all the more entertaining.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.7)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">MOOT</div>
+                    <span
+                      class="subheading"
+                    >Lex Omnia is one of the premier events conducted by Waves . It is a Moot Court competition where students from Law Colleges compete. The debates are long , stakes are high and you’ll  survive only if you can enagage. There’s two sides to every story , the right one is the one you make them believe.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+
+            <v-flex xs12>
+              <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                <v-card-title primary-title>
+                  <div>
+                    <div class="headline">IRSHAAD</div>
+                    <span
+                      class="subheading"
+                    >“Irshad” is a Hindi-Urdu performance poetry competition which aims at bringing different perspectives of the things, happenings and feelings in the world, at one platform of blissful poetry. This year we plan to reach out to the poets through our regional qualifiers in Delhi, Mumbai, Bengaluru, Lucknow, Jaipur, Indore, Aligarh, Hyderabad and Goa.</span>
+                  </div>
+                </v-card-title>
+                <v-card-actions>
+                  <v-btn flat dark>Register now</v-btn>
+                </v-card-actions>
+              </v-card>
+            </v-flex>
+          </v-layout>
+        </v-container>
+      </v-card>
+    </div>
+
   </div>
 </template>
 
