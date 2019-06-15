@@ -16,16 +16,18 @@
       </v-list>
     </v-navigation-drawer>
 
-    <v-toolbar>
-      <v-toolbar-side-icon @click.stop="sideNav = !sideNav" class="hidden-sm-and-up"></v-toolbar-side-icon>
-      <v-toolbar-title>
-        <router-link to="/" tag="span" style="cursor: pointer">Waves</router-link>
+    <v-toolbar height="75px" color="black">
+      <v-toolbar-side-icon color="white" @click.stop="sideNav = !sideNav" class="hidden-sm-and-up"></v-toolbar-side-icon>
+      <v-toolbar-title >
+        <router-link to="/" tag="span" style="cursor: pointer">
+        <img src="WavesLogo.png" height="75px" alt="Waves">
+        </router-link>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-xs-only">
-        <v-btn flat v-for="(link,index) in links" :key="index" :to="link.route">
+        <v-btn  flat v-for="(link,index) in links" :key="index" :to="link.route">
           <!-- <v-icon left>{{ link.icon }}</v-icon> -->
-          {{ link.name }}
+          <span class="white--text">{{ link.name }}</span>
         </v-btn>
       </v-toolbar-items>
     </v-toolbar>
@@ -43,7 +45,6 @@ export default {
         { icon: "home", name: "Home", route: "/" },
         { icon: "event", name: "Event", route: "/event" },
         { icon: "phone", name: "Contact Us", route: "/contactUs" },
-        { icon: "developer_board", name: "Developers", route: "/developer" }
       ]
     };
   }
