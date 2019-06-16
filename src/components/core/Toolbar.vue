@@ -46,8 +46,8 @@ export default {
       links: [
         { icon: "home", name: "Home", route: "/" },
         { icon: "event", name: "Events", route: "/event" },
-        { icon: "phone", name: "Contact Us", route: "/contactUs" },
-        { icon: "developer_board", name: "Developers", route: "/developer" }
+        { icon: "phone", name: "Contact Us", route: "/contact-us" }
+        // { icon: "developer_board", name: "Developers", route: "/developer" }
       ]
     };
   }
