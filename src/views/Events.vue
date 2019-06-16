@@ -28,7 +28,7 @@
     <div>
       <!-- Dance -->
       <div id="Dance" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DANCE</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
@@ -93,7 +93,7 @@
 
       <!-- Music -->
       <div id="Music" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">MUSIC</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
@@ -171,7 +171,7 @@
 
       <!-- Drama -->
       <div id="Drama" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DRAMA</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
@@ -210,7 +210,7 @@
 
       <!-- Design -->
       <div id="Design" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DESIGN</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
@@ -276,7 +276,7 @@
 
       <!-- Fine Arts -->
       <div id="FineArts" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FINE ARTS</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
@@ -328,7 +328,7 @@
 
       <!-- Carpe Dictum -->
       <div id="CarpeDictum" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">CARPE DICTUM</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
@@ -406,7 +406,7 @@
 
       <!-- Fashion -->
       <div id="Fashion" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FASHION</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
@@ -431,7 +431,7 @@
       </div>
       <!-- Quiz -->
       <div id="Quiz" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">QUIZ</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
@@ -488,7 +488,7 @@
 
       <!-- Photography -->
       <div id="Photography" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">PHOTOGRAPHY</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
@@ -527,7 +527,7 @@
 
       <!-- Specials -->
       <div id="Specials" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="black" dark>
+        <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">SPECIALS</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>

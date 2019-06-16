@@ -11,26 +11,24 @@
       </v-toolbar>
       <v-list>
         <v-list-tile v-for="(link,index) in links" :key="index" :to="link.route">
-          <v-icon left>mdi-diamond</v-icon>
+          <v-icon left>{{ link.icon }}</v-icon>
           <v-list-tile-title v-text="link.name"/>
         </v-list-tile>
       </v-list>
     </v-navigation-drawer>
 
-    <v-toolbar app>
-      <!-- <v-toolbar-side-icon>
-        <v-img :src="require('@/assets/logo_waves.png')" @click="$vuetify.goTo(0)"/>
-      </v-toolbar-side-icon>-->
-      <v-toolbar-side-icon v-if="!$vuetify.breakpoint.xsOnly">
-        <v-img :src="require('@/assets/logo.png')" cover @click="$vuetify.goTo(0)"/>
-      </v-toolbar-side-icon>
-      <v-toolbar-side-icon v-if="$vuetify.breakpoint.xsOnly" @click.stop="sideNav = !sideNav"></v-toolbar-side-icon>
+    <v-toolbar app height="75px" color="#202124">
+      <v-toolbar-side-icon color="white" @click.stop="sideNav = !sideNav" class="hidden-sm-and-up"></v-toolbar-side-icon>
       <v-toolbar-title>
-        <router-link to="/" tag="span" style="cursor: pointer">Waves 2019</router-link>
+        <router-link to="/" tag="span" style="cursor: pointer">
+          <img src="WavesLogo.png" height="75px" alt="Waves">
+        </router-link>
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-xs-only">
-        <v-btn flat v-for="(link,index) in links" :key="index" :to="link.route">{{ link.name }}</v-btn>
+        <v-btn flat v-for="(link,index) in links" :key="index" :to="link.route">
+          <span class="white--text">{{ link.name }}</span>
+        </v-btn>
       </v-toolbar-items>
     </v-toolbar>
   </div>
@@ -44,10 +42,10 @@ export default {
     return {
       sideNav: false,
       links: [
-        { icon: "home", name: "Home", route: "/" },
-        { icon: "event", name: "Events", route: "/event" },
-        { icon: "phone", name: "Contact Us", route: "/contactUs" },
-        { icon: "developer_board", name: "Developers", route: "/developer" }
+        { icon: "mdi-home", name: "Home", route: "/" },
+        { icon: "mdi-calendar-text", name: "Events", route: "/event" },
+        { icon: "mdi-account-box", name: "Contact Us", route: "/contact-us" }
+        // { icon: "developer_board", name: "Developers", route: "/developer" }
       ]
     };
   }
