@@ -11,13 +11,13 @@
       </v-toolbar>
       <v-list>
         <v-list-tile v-for="(link,index) in links" :key="index" :to="link.route">
-          <v-icon left>mdi-diamond</v-icon>
+          <v-icon left>{{ link.icon }}</v-icon>
           <v-list-tile-title v-text="link.name"/>
         </v-list-tile>
       </v-list>
     </v-navigation-drawer>
 
-    <v-toolbar height="75px" color="black">
+    <v-toolbar app height="75px" color="#202124">
       <v-toolbar-side-icon color="white" @click.stop="sideNav = !sideNav" class="hidden-sm-and-up"></v-toolbar-side-icon>
       <v-toolbar-title>
         <router-link to="/" tag="span" style="cursor: pointer">
@@ -27,7 +27,6 @@
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-xs-only">
         <v-btn flat v-for="(link,index) in links" :key="index" :to="link.route">
-          <!-- <v-icon left>{{ link.icon }}</v-icon> -->
           <span class="white--text">{{ link.name }}</span>
         </v-btn>
       </v-toolbar-items>
@@ -43,9 +42,9 @@ export default {
     return {
       sideNav: false,
       links: [
-        { icon: "home", name: "Home", route: "/" },
-        { icon: "event", name: "Events", route: "/event" },
-        { icon: "phone", name: "Contact Us", route: "/contact-us" }
+        { icon: "mdi-home", name: "Home", route: "/" },
+        { icon: "mdi-calendar-text", name: "Events", route: "/event" },
+        { icon: "mdi-account-box", name: "Contact Us", route: "/contact-us" }
         // { icon: "developer_board", name: "Developers", route: "/developer" }
       ]
     };
