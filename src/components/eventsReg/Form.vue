@@ -258,14 +258,15 @@ export default {
           console.error(err);
           this.snackbarStatus = 1;
           this.snackbar = true;
+          this.registerLoading = false;
         } else {
           this.dialog = false;
           this.$refs.form.reset();
           this.snackbarStatus = 0;
           this.snackbar = true;
+          this.registerLoading = false;
         }
       });
-      this.registerLoading = false;
     }
   }
 };

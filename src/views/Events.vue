@@ -24,6 +24,15 @@
     <!-- Register form modal activator -->
     <div class="bg-pic">
       <Form></Form>
+      <v-layout row justify-center>
+        <v-btn
+          large
+          color="secondary"
+          dark
+          href="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/Rulebook.pdf?alt=media&token=90ccca56-4a64-41de-afc1-6a9ab19a174c"
+          target="_blank"
+        >Get the Rulebook</v-btn>
+      </v-layout>
     </div>
     <div>
       <!-- Dance -->

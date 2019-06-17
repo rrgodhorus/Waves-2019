@@ -12,7 +12,12 @@ export default new Router({
   routes: [
     {
       path: '/',
-      name: 'home',
+      name: 'Home',
+      component: Home
+    },
+    {
+      path: '/home',
+      name: 'Home',
       component: Home
     },
     {
@@ -24,6 +29,12 @@ export default new Router({
       path: '/contact-us',
       name: 'Contact Us',
       component: Contact
+    },
+    {
+      path: '*',
+      redirect: {
+        name: 'Home'
+      }
     }
   ]
 })
