@@ -130,6 +130,27 @@
           </div>
         </v-card>
       </v-flex>
+
+
+      <v-flex sm4 xs12 class="contact">
+        <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
+          <div class="img-1">
+            <v-avatar size="175" class="img-container">
+              <img src="Gunjan (2).jpeg" class="image">
+            </v-avatar>
+          </div>
+
+          <div class="details">
+            <h3>Gunjan Samtani</h3>
+            <h4>Publicity and PR head</h4>
+            <h4>9664702795</h4>
+            <h4></h4>
+          </div>
+        </v-card>
+      </v-flex>
+
+
+
     </v-layout>
 
     <v-flex xs12>
@@ -728,6 +749,9 @@ export default {
 
 .image {
   margin: auto;
+  /* width: 6vw; */
+  /* height: auto; */
+  /* border-radius: 50%; */
 }
 
 .card {
