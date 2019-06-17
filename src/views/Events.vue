@@ -36,11 +36,17 @@
     </div>
     <div>
       <!-- Dance -->
-      <div id="Dance" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+  <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DANCE</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
+        </div>
+      </template>
+      <v-card>
         <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
@@ -98,15 +104,23 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+      </v-card>
+    </v-expansion-panel-content>
+  </v-expansion-panel>
 
       <!-- Music -->
-      <div id="Music" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+
+  <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">MUSIC</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+       <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -176,15 +190,21 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+  </v-expansion-panel>
 
       <!-- Drama -->
-      <div id="Drama" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+  <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DRAMA</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+       <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -215,15 +235,22 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+  </v-expansion-panel>
+
 
       <!-- Design -->
-      <div id="Design" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+      <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DESIGN</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+     <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -281,15 +308,21 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+  </v-expansion-panel>
 
       <!-- Fine Arts -->
-      <div id="FineArts" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+      <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FINE ARTS</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+      <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -333,15 +366,21 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+  </v-expansion-panel>
 
       <!-- Carpe Dictum -->
-      <div id="CarpeDictum" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+      <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">CARPE DICTUM</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+     <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex id="Inverse" xs12>
@@ -411,15 +450,21 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+  </v-expansion-panel>
 
       <!-- Fashion -->
-      <div id="Fashion" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+      <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FASHION</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+     <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex id="FashionParade" xs12>
@@ -437,14 +482,20 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+  </v-expansion-panel>
       <!-- Quiz -->
-      <div id="Quiz" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+      <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">QUIZ</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+     <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -493,15 +544,21 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+  </v-expansion-panel>
 
       <!-- Photography -->
-      <div id="Photography" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
-          <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">PHOTOGRAPHY</v-toolbar-title>
+      <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
+          <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FIELD</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+       <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -532,15 +589,22 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+    </v-expansion-panel>
+    
 
       <!-- Specials -->
-      <div id="Specials" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+      <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">SPECIALS</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+      <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -625,7 +689,8 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+  </v-expansion-panel>
     </div>
   </div>
 </template>
@@ -848,7 +913,7 @@ $spot-color: #312525f1;
       font-size: 1.8em;
       // opacity: 0;
       transform: translate(-50%, -30%) scale(0.5);
-      // transition: all 0.25s;
+      transition: all 0.25s;
     }
   }
 
