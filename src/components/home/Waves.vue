@@ -3,21 +3,21 @@
     <div id="container">
       <v-img
         v-if="$vuetify.breakpoint.lgAndUp"
-        width="1000px"
-        height="1000px"
+        width="90vw"
+        height="70vh"
         contain
         class="img-lg-and-up"
         :src="wavesLogo"
       ></v-img>
       <v-img
         v-else-if="$vuetify.breakpoint.smAndUp"
-        width="600px"
-        height="400px"
+        width="80vw"
+        height="60vh"
         contain
         class="img-sm-to-md"
         :src="wavesLogo"
       ></v-img>
-      <v-img v-else width="350px" height="300px" contain class="img-xs-only" :src="wavesLogo"></v-img>
+      <v-img v-else width="70vw" height="60vh" contain class="img-xs-only" :src="wavesLogo"></v-img>
       <v-btn
         v-if="touch"
         id="navigate-down"
@@ -211,7 +211,7 @@ export default {
 .img-lg-and-up {
   position: absolute;
   top: 0vh;
-  left: 20vw;
+  left: 5vw;
 }
 .img-xs-only {
   position: absolute;
