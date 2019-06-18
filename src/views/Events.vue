@@ -793,22 +793,11 @@ export default {
       this.open = false;
     },
     hotspotClicked(hotspot, index) {
-      // this.selectedHotspot = hotspot;
-      // this.selectedIndex = index;
-
-      // this.open = true;
       const id = hotspot.title
         .split(" ")
         .join("")
         .replace(/&/g, "");
-      console.log(id);
-      // if (hotspot.title === "Mr & Mrs Waves") {
-      //   hotspot.title = "MrMrsWaves";
-      // } else if (hotspot.title === "Carpe Dictum") {
-      //   hotspot.title = "CarpeDictum";
-      // } else if (hotspot.title === "Fine Arts") {
-      //   hotspot.title = "FineArts";
-      // }
+      
       this.$vuetify.goTo(`#${id}`);
     }
   }
