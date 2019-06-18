@@ -48,7 +48,7 @@ export default {
 @import url("https://fonts.googleapis.com/css?family=Nanum+Pen+Script&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap");
 .bg-pic {
-  background-image: url("https://previews.123rf.com/images/wutichaistudio/wutichaistudio1706/wutichaistudio170600276/80371236-closeup-of-beach-sand-texture-in-the-summer-fine-sand-texture-beautiful-sand-background-brown-sand-a.jpg");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FBackground.jpg?alt=media&token=9ebe4fba-b295-4814-8140-408b6df799c1");
   background-size: cover;
   background-repeat: repeat;
 }

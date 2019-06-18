@@ -15,7 +15,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Pic1_c.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FPic1_c.jpeg?alt=media&token=a16123c4-aca9-4be3-87ab-751c6721566a" class="image">
             </v-avatar>
           </div>
 
@@ -38,7 +38,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Pic3.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FPic3.jpeg?alt=media&token=de9c2549-6788-42d1-ae9d-47aaff3ba573" class="image">
             </v-avatar>
           </div>
 
@@ -55,7 +55,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Sanyukta.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSanyukta.jpeg?alt=media&token=2d4d5ff8-74db-4bb4-b13a-07b04bd00564" class="image">
             </v-avatar>
           </div>
 
@@ -73,7 +73,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Kratik.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FKratik.jpeg?alt=media&token=5b52c63d-dfc9-42de-bf14-7b6c70450490" class="image">
             </v-avatar>
           </div>
 
@@ -101,7 +101,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Pic5.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FPic5.jpeg?alt=media&token=175897ac-912b-478c-8457-0d527c9f7d2b" class="image">
             </v-avatar>
           </div>
 
@@ -118,7 +118,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Pic4.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FPic4.jpeg?alt=media&token=2e755b2c-3976-49f9-b54c-22a199690488" class="image">
             </v-avatar>
           </div>
 
@@ -136,7 +136,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Gunjan (2).jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FGunjan%20(2).jpeg?alt=media&token=ee6ce3a1-a800-49ea-8c8e-0dedb5a43e09" class="image">
             </v-avatar>
           </div>
 
@@ -162,7 +162,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Yash.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FYash.jpg?alt=media&token=df1492ba-c4f1-4294-874f-387facbaba52" class="image">
             </v-avatar>
           </div>
 
@@ -179,7 +179,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Siddak.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSiddak.jpg?alt=media&token=b11a3f0e-a699-4b93-98e5-311e224688d9" class="image">
             </v-avatar>
           </div>
 
@@ -199,7 +199,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Chainika Shah.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FChainika%20Shah.jpg?alt=media&token=ba6d617c-e9ef-4f33-9867-b6c09cdb0dd5" class="image">
             </v-avatar>
           </div>
 
@@ -218,7 +218,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Sarthak Dwivedi.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSarthak%20Dwivedi.jpg?alt=media&token=5d23d688-265f-43aa-880c-4f206919a504" class="image">
             </v-avatar>
           </div>
 
@@ -244,7 +244,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Madhulika.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FMadhulika.jpg?alt=media&token=28de54d7-1de6-42f1-84ed-cbcaa1ce4edd" class="image">
             </v-avatar>
           </div>
 
@@ -262,7 +262,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Sujith.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSujith.jpeg?alt=media&token=7377f082-b6e6-4b83-87ba-20381b67e0a0" class="image">
             </v-avatar>
           </div>
 
@@ -285,7 +285,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Mohanish.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FMohanish.jpg?alt=media&token=047cde37-6cfc-4170-8564-e62a676d619f" class="image">
             </v-avatar>
           </div>
 
@@ -302,7 +302,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Harshdeep.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FHarshdeep.jpeg?alt=media&token=85ba9863-f5db-4a27-a96c-3678229f14a1" class="image">
             </v-avatar>
           </div>
 
@@ -327,7 +327,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Siddhesh.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSiddhesh.jpg?alt=media&token=88ecf89a-bb05-4b02-9e29-2e86526153b0" class="image">
             </v-avatar>
           </div>
 
@@ -344,7 +344,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Akshat.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAkshat.jpg?alt=media&token=78fdf018-8c28-46b3-af65-961557ac0bd0" class="image">
             </v-avatar>
           </div>
 
@@ -371,7 +371,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="ANIKET_CHANDRA.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FANIKET_CHANDRA.jpg?alt=media&token=c59b7993-7926-4a43-b758-32f87ea44d19" class="image">
             </v-avatar>
           </div>
 
@@ -388,7 +388,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="AYUSH_MITTAL.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAYUSH_MITTAL.jpg?alt=media&token=db5147cb-7e01-4805-a1c5-5f87685996ac" class="image">
             </v-avatar>
           </div>
 
@@ -408,7 +408,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Aaryan Goyal.jpeg" class="image" style="transform:rotate(270deg);">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAaryan%20Goyal.jpeg?alt=media&token=5532eac3-f358-4543-aa2e-37f17d413ce6" class="image" style="transform:rotate(270deg);">
             </v-avatar>
           </div>
 
@@ -427,7 +427,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Aviral Bansal.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAviral%20Bansal.jpeg?alt=media&token=fffbf58b-bca7-43d5-823e-b30557b72798" class="image">
             </v-avatar>
           </div>
 
@@ -455,7 +455,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Sahil_c.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSahil_c.jpg?alt=media&token=61f8ba7b-75d8-4dbf-812a-a4f4578c1ee3" class="image">
             </v-avatar>
           </div>
 
@@ -472,7 +472,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Luv Nath.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FLuv%20Nath.jpeg?alt=media&token=74e4e6f1-06a2-412d-8724-0cd09a8ce6fe" class="image">
             </v-avatar>
           </div>
 
@@ -490,7 +490,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Anand Balaji.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAnand%20Balaji.jpeg?alt=media&token=69aff234-e0f9-4215-b5fb-730eab4fb6c0" class="image">
             </v-avatar>
           </div>
 
@@ -516,7 +516,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Shashwat.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FShashwat.jpg?alt=media&token=dc44ac69-7a6a-4170-86e9-c0654ae47759" class="image">
             </v-avatar>
           </div>
 
@@ -533,7 +533,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Parth.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FParth.jpeg?alt=media&token=17090809-12d7-42a4-8af7-18ec6bfe129d" class="image">
             </v-avatar>
           </div>
 
@@ -560,7 +560,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Arjun_Agarwal.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FArjun_Agarwal.jpg?alt=media&token=dad7f96d-842d-4fe8-a61a-c74491bb44c3" class="image">
             </v-avatar>
           </div>
 
@@ -577,7 +577,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Ritvik.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FRitvik.jpeg?alt=media&token=2e35ac9d-e0a2-4e4b-8e5e-c67b87ea63aa" class="image">
             </v-avatar>
           </div>
 
@@ -605,7 +605,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Divya.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FDivya.jpeg?alt=media&token=eb6a5118-9310-4f21-89ed-38ec42b902e7" class="image">
             </v-avatar>
           </div>
 
@@ -622,7 +622,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Arshika.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FArshika.jpeg?alt=media&token=e4172e00-1092-4489-8729-c40b02b703cd" class="image">
             </v-avatar>
           </div>
 
@@ -640,7 +640,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Meera.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FMeera.jpeg?alt=media&token=75b9567b-4b2e-422e-9e43-eaf55fc9f124" class="image">
             </v-avatar>
           </div>
 
@@ -665,7 +665,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Shravan Kumar.jpg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FShravan%20Kumar.jpg?alt=media&token=b9fdbfad-fe9d-4152-bb72-34f0ca1febc6" class="image">
             </v-avatar>
           </div>
 
@@ -682,7 +682,7 @@
         <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
           <div class="img-1">
             <v-avatar size="175" class="img-container">
-              <img src="Amey Jain.jpeg" class="image">
+              <img src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAmey%20Jain.jpeg?alt=media&token=a17f9533-c8f0-4956-a965-8f21452ff661" class="image">
             </v-avatar>
           </div>
 
@@ -709,7 +709,6 @@
 <script>
 export default {
   name: "Contact",
-  imgSize: "500"
 };
 </script>
 
@@ -790,7 +789,7 @@ export default {
 
 .outside {
   width: 100%;
-  background: url("https://previews.123rf.com/images/wutichaistudio/wutichaistudio1706/wutichaistudio170600276/80371236-closeup-of-beach-sand-texture-in-the-summer-fine-sand-texture-beautiful-sand-background-brown-sand-a.jpg");
+  background: url("https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FBackground.jpg?alt=media&token=9ebe4fba-b295-4814-8140-408b6df799c1");
   
   padding-left: 0px;
   padding-right: 0px;
