@@ -759,7 +759,7 @@ export default {
 $spot-color: #312525f1;
 
 .bg-pic {
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/8/84/Parchment.00.jpg");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/Background_Events.jpg?alt=media&token=c463bbae-1363-4dc6-b431-3b90ca0e0b30");
   background-size: cover;
   background-repeat: no-repeat;
 
