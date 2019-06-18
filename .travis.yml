@@ -1,6 +1,7 @@
 language: node_js
 node_js:
   - "stable"
+sudo: required
 before_install: # if "install" is overridden
   # Repo for Yarn
   - sudo apt-key adv --fetch-keys http://dl.yarnpkg.com/debian/pubkey.gpg
@@ -12,7 +13,7 @@ script:
   - yarn build
 
 install:
-  - npm install -g firebase--tools
+  - npm install -g firebase-tools
 
 after_success:
   - firebase deploy --only hosting --token $FIREBASE_TOKEN
