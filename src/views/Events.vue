@@ -106,14 +106,11 @@
         </v-card>
       </v-card>
     </v-expansion-panel-content>
-  </v-expansion-panel>
 
       <!-- Music -->
-
-  <v-expansion-panel>
     <v-expansion-panel-content>
       <template v-slot:header>
-        <div id="Dance" class="grey lighten-3">
+        <div id="Music" class="grey lighten-3">
           <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">MUSIC</v-toolbar-title>
           <v-spacer></v-spacer>
@@ -191,13 +188,11 @@
           </v-container>
         </v-card>
        </v-expansion-panel-content>
-  </v-expansion-panel>
 
       <!-- Drama -->
-  <v-expansion-panel>
     <v-expansion-panel-content>
       <template v-slot:header>
-        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+        <div id="Drama" style="margin: auto;" class="grey lighten-3">
           <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DRAMA</v-toolbar-title>
           <v-spacer></v-spacer>
@@ -236,14 +231,11 @@
           </v-container>
         </v-card>
        </v-expansion-panel-content>
-  </v-expansion-panel>
-
 
       <!-- Design -->
-      <v-expansion-panel>
     <v-expansion-panel-content>
       <template v-slot:header>
-        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+        <div id="Design" style="margin: auto;" class="grey lighten-3">
           <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DESIGN</v-toolbar-title>
           <v-spacer></v-spacer>
@@ -260,7 +252,7 @@
                       <div class="headline">Let's not get wasted</div>
                       <span class="subheading">
                         This is an artsy event where you make use of your creativity. You will be given some (useful) waste and you have to make the most creative thing you can, according to the (secret) theme that will be given on spot.
-                        <br>“CReativity is contagious, pass it on.”-Albert Einstein
+                        <br>“Creativity is contagious, pass it on.”-Albert Einstein
                       </span>
                     </div>
                   </v-card-title>
@@ -309,13 +301,11 @@
           </v-container>
         </v-card>
        </v-expansion-panel-content>
-  </v-expansion-panel>
 
       <!-- Fine Arts -->
-      <v-expansion-panel>
     <v-expansion-panel-content>
       <template v-slot:header>
-        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+        <div id="FineArts" style="margin: auto;" class="grey lighten-3">
           <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FINE ARTS</v-toolbar-title>
           <v-spacer></v-spacer>
@@ -367,13 +357,11 @@
           </v-container>
         </v-card>
        </v-expansion-panel-content>
-  </v-expansion-panel>
 
       <!-- Carpe Dictum -->
-      <v-expansion-panel>
     <v-expansion-panel-content>
       <template v-slot:header>
-        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+        <div id="CarpeDictum" style="margin: auto;" class="grey lighten-3">
           <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">CARPE DICTUM</v-toolbar-title>
           <v-spacer></v-spacer>
@@ -451,13 +439,11 @@
           </v-container>
         </v-card>
        </v-expansion-panel-content>
-  </v-expansion-panel>
 
       <!-- Fashion -->
-      <v-expansion-panel>
     <v-expansion-panel-content>
       <template v-slot:header>
-        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+        <div id="Fashion" style="margin: auto;" class="grey lighten-3">
           <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FASHION</v-toolbar-title>
           <v-spacer></v-spacer>
@@ -483,12 +469,11 @@
           </v-container>
         </v-card>
        </v-expansion-panel-content>
-  </v-expansion-panel>
+
       <!-- Quiz -->
-      <v-expansion-panel>
     <v-expansion-panel-content>
       <template v-slot:header>
-        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+        <div id="Quiz" style="margin: auto;" class="grey lighten-3">
           <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">QUIZ</v-toolbar-title>
           <v-spacer></v-spacer>
@@ -502,7 +487,7 @@
                 <v-card color="rgba(0,0,0,0.4)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">WAVES OPEN</div>
+                      <div class="headline">Waves Open</div>
                       <span class="subheading">“The fifth Grand Slam of the year.“</span>
                     </div>
                   </v-card-title>
@@ -513,7 +498,7 @@
                 <v-card color="rgba(0,0,0,0.6)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">THE VICES QUIZ</div>
+                      <div class="headline">The Vices Quiz</div>
                       <span class="subheading">“There is no God here.”</span>
                     </div>
                   </v-card-title>
@@ -524,7 +509,7 @@
                 <v-card color="rgba(0,0,0,0.5)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">VOYAGE – The Travel and Living Quiz</div>
+                      <div class="headline">Voyage – The Travel and Living Quiz</div>
                       <span class="subheading">“How far do you think you can go? “</span>
                     </div>
                   </v-card-title>
@@ -535,7 +520,7 @@
                 <v-card color="rgba(0,0,0,0.45)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">MELAS</div>
+                      <div class="headline">Melas</div>
                       <span class="subheading">“Everything irrelevant to life”</span>
                     </div>
                   </v-card-title>
@@ -545,13 +530,11 @@
           </v-container>
         </v-card>
        </v-expansion-panel-content>
-  </v-expansion-panel>
 
       <!-- Photography -->
-      <v-expansion-panel>
     <v-expansion-panel-content>
       <template v-slot:header>
-        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+        <div id="Photography" style="margin: auto;" class="grey lighten-3">
           <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FIELD</v-toolbar-title>
           <v-spacer></v-spacer>
@@ -590,14 +573,11 @@
           </v-container>
         </v-card>
        </v-expansion-panel-content>
-    </v-expansion-panel>
-    
 
       <!-- Specials -->
-      <v-expansion-panel>
     <v-expansion-panel-content>
       <template v-slot:header>
-        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+        <div id="Specials" style="margin: auto;" class="grey lighten-3">
           <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">SPECIALS</v-toolbar-title>
           <v-spacer></v-spacer>
@@ -624,7 +604,7 @@
                 <v-card color="rgba(0,0,0,0.6)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">SHOW ME THE FUNNY</div>
+                      <div class="headline">Show Me The Funny</div>
                       <span
                         class="subheading"
                       >Show Me The Funny is a stand up comedy competition which provides a platform for emerging stand-up comedians of the country to showcase their talent.The eliminations shall be held in a few cities all across the country, where participants shall perform a stand up comedy act in the allotted time . Another round will be held on Day 0 of Waves, which will be open to all. The winners of this round,as well as the winners of the national eliminations held in the various cities will compete in the final round.The winner will have the golden oppprtunity to open for the Waves comedy night.</span>
@@ -820,6 +800,7 @@ export default {
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script:400");
 @import url("https://fonts.googleapis.com/css?family=Nanum+Pen+Script&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
 
 $spot-color: #312525f1;
 
@@ -840,8 +821,8 @@ $spot-color: #312525f1;
   font-family: "Kaushan Script", cursive !important;
 }
 .subheading {
-  font-family: "Nanum Pen Script", cursive !important;
-  font-size: 24px !important;
+  font-family: "Montserrat", cursive !important;
+  font-size: 1.75vw !important;
 }
 
 .icon {
