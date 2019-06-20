@@ -1,6 +1,9 @@
 <template>
   <div class="bg-pic">
     <waves/>
+    <div class="button">
+      <v-btn large round color="rgb(172,88,44)" @click="goEvents" class="btn">Register</v-btn>
+    </div>
     <v-container fluid id="home-about">
       <v-layout wrap>
         <v-flex xs12 sm6 md6 xl6>
@@ -36,7 +39,11 @@
 // import * as THREE from 'three'
 export default {
   name: "Home",
-
+  methods:{
+    goEvents() {
+      this.$router.push({name:'Events'})
+    }
+  },
   components: {
     Waves: () => import("@/components/home/Waves")
   }
@@ -53,6 +60,12 @@ export default {
   background-image: url("https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FBackground.jpg?alt=media&token=9ebe4fba-b295-4814-8140-408b6df799c1");
   background-size: cover;
   background-repeat: repeat;
+}
+.button{
+  text-align:center;
+}
+.btn{
+  margin-top:-250px;
 }
 .cards {
   margin: 20px;
