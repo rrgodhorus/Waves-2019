@@ -36,11 +36,17 @@
     </div>
     <div>
       <!-- Dance -->
-      <div id="Dance" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+  <v-expansion-panel>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Dance" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DANCE</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
+        </div>
+      </template>
+      <v-card>
         <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
@@ -98,15 +104,20 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+      </v-card>
+    </v-expansion-panel-content>
 
       <!-- Music -->
-      <div id="Music" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Music" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">MUSIC</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+       <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -176,15 +187,19 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
 
       <!-- Drama -->
-      <div id="Drama" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Drama" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DRAMA</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+       <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -215,15 +230,19 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
 
       <!-- Design -->
-      <div id="Design" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Design" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">DESIGN</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+     <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -233,7 +252,7 @@
                       <div class="headline">Let's not get wasted</div>
                       <span class="subheading">
                         This is an artsy event where you make use of your creativity. You will be given some (useful) waste and you have to make the most creative thing you can, according to the (secret) theme that will be given on spot.
-                        <br>“CReativity is contagious, pass it on.”-Albert Einstein
+                        <br>“Creativity is contagious, pass it on.”-Albert Einstein
                       </span>
                     </div>
                   </v-card-title>
@@ -281,15 +300,19 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
 
       <!-- Fine Arts -->
-      <div id="FineArts" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="FineArts" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FINE ARTS</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+      <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -333,15 +356,19 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
 
       <!-- Carpe Dictum -->
-      <div id="CarpeDictum" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="CarpeDictum" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">CARPE DICTUM</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+     <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex id="Inverse" xs12>
@@ -411,15 +438,19 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
 
       <!-- Fashion -->
-      <div id="Fashion" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Fashion" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FASHION</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+     <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex id="FashionParade" xs12>
@@ -437,21 +468,26 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+
       <!-- Quiz -->
-      <div id="Quiz" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Quiz" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">QUIZ</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+     <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
                 <v-card color="rgba(0,0,0,0.4)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">WAVES OPEN</div>
+                      <div class="headline">Waves Open</div>
                       <span class="subheading">“The fifth Grand Slam of the year.“</span>
                     </div>
                   </v-card-title>
@@ -462,7 +498,7 @@
                 <v-card color="rgba(0,0,0,0.6)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">THE VICES QUIZ</div>
+                      <div class="headline">The Vices Quiz</div>
                       <span class="subheading">“There is no God here.”</span>
                     </div>
                   </v-card-title>
@@ -473,7 +509,7 @@
                 <v-card color="rgba(0,0,0,0.5)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">VOYAGE – The Travel and Living Quiz</div>
+                      <div class="headline">Voyage – The Travel and Living Quiz</div>
                       <span class="subheading">“How far do you think you can go? “</span>
                     </div>
                   </v-card-title>
@@ -484,7 +520,7 @@
                 <v-card color="rgba(0,0,0,0.45)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">MELAS</div>
+                      <div class="headline">Melas</div>
                       <span class="subheading">“Everything irrelevant to life”</span>
                     </div>
                   </v-card-title>
@@ -493,15 +529,19 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
 
       <!-- Photography -->
-      <div id="Photography" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
-          <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">PHOTOGRAPHY</v-toolbar-title>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Photography" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
+          <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FIELD</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+       <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -532,15 +572,19 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
 
       <!-- Specials -->
-      <div id="Specials" style="margin: auto;" class="grey lighten-3">
-        <v-toolbar color="#151515" dark>
+    <v-expansion-panel-content>
+      <template v-slot:header>
+        <div id="Specials" style="margin: auto;" class="grey lighten-3">
+          <v-toolbar color="#151515" dark>
           <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">SPECIALS</v-toolbar-title>
           <v-spacer></v-spacer>
         </v-toolbar>
-        <v-card class="bg-pic" color="white">
+        </div>
+      </template>
+      <v-card class="bg-pic" color="white">
           <v-container fluid grid-list-lg>
             <v-layout row wrap>
               <v-flex xs12>
@@ -560,7 +604,7 @@
                 <v-card color="rgba(0,0,0,0.6)" class="white--text">
                   <v-card-title primary-title>
                     <div>
-                      <div class="headline">SHOW ME THE FUNNY</div>
+                      <div class="headline">Show Me The Funny</div>
                       <span
                         class="subheading"
                       >Show Me The Funny is a stand up comedy competition which provides a platform for emerging stand-up comedians of the country to showcase their talent.The eliminations shall be held in a few cities all across the country, where participants shall perform a stand up comedy act in the allotted time . Another round will be held on Day 0 of Waves, which will be open to all. The winners of this round,as well as the winners of the national eliminations held in the various cities will compete in the final round.The winner will have the golden oppprtunity to open for the Waves comedy night.</span>
@@ -625,7 +669,8 @@
             </v-layout>
           </v-container>
         </v-card>
-      </div>
+       </v-expansion-panel-content>
+  </v-expansion-panel>
     </div>
   </div>
 </template>
@@ -728,22 +773,11 @@ export default {
       this.open = false;
     },
     hotspotClicked(hotspot, index) {
-      // this.selectedHotspot = hotspot;
-      // this.selectedIndex = index;
-
-      // this.open = true;
       const id = hotspot.title
         .split(" ")
         .join("")
         .replace(/&/g, "");
-      console.log(id);
-      // if (hotspot.title === "Mr & Mrs Waves") {
-      //   hotspot.title = "MrMrsWaves";
-      // } else if (hotspot.title === "Carpe Dictum") {
-      //   hotspot.title = "CarpeDictum";
-      // } else if (hotspot.title === "Fine Arts") {
-      //   hotspot.title = "FineArts";
-      // }
+      
       this.$vuetify.goTo(`#${id}`);
     }
   }
@@ -755,6 +789,7 @@ export default {
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script:400");
 @import url("https://fonts.googleapis.com/css?family=Nanum+Pen+Script&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
 
 $spot-color: #312525f1;
 
@@ -775,8 +810,8 @@ $spot-color: #312525f1;
   font-family: "Kaushan Script", cursive !important;
 }
 .subheading {
-  font-family: "Nanum Pen Script", cursive !important;
-  font-size: 24px !important;
+  font-family: "Montserrat", cursive !important;
+  font-size: 1.75vw !important;
 }
 
 .icon {
@@ -842,13 +877,13 @@ $spot-color: #312525f1;
       position: absolute;
       top: 130%;
       left: 50%;
-      color: white;
-      text-shadow: 5px 4px rgb(12, 11, 11);
+      color: black;
+      text-shadow: 5px 4px #f7debe;
       font-weight: 500;
       font-size: 1.8em;
       // opacity: 0;
       transform: translate(-50%, -30%) scale(0.5);
-      // transition: all 0.25s;
+      transition: all 0.25s;
     }
   }
 

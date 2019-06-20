@@ -47,6 +47,8 @@ export default {
 @import url("https://fonts.googleapis.com/css?family=Kaushan+Script:400");
 @import url("https://fonts.googleapis.com/css?family=Nanum+Pen+Script&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Permanent+Marker&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Montserrat");
+
 .bg-pic {
   background-image: url("https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FBackground.jpg?alt=media&token=9ebe4fba-b295-4814-8140-408b6df799c1");
   background-size: cover;
@@ -59,8 +61,8 @@ export default {
   font-family: "Kaushan Script", cursive !important;
 }
 .subheading {
-  font-family: "Nanum Pen Script", cursive !important;
-  font-size: 24px !important;
+  font-family: "Montserrat", cursive !important;
+  font-size: 1.75vw !important;
 }
 </style>
 
