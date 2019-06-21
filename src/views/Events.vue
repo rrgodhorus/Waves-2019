@@ -4,6 +4,19 @@
       <transition-group name="hotspots">
         <template v-for="(hotspot, index) in hotspotItems">
           <a
+            v-if="hotspot.title === 'Searock'"
+            href="http://searock.bitswaves.org/"
+            target="_blank"
+            class="hotspot-point"
+            :style="{ top: hotspot.position.top, left: hotspot.position.left }"
+            :key="index"
+          >
+            <span class="icon-disp" :data-title="hotspot.title">
+              <span class="icon-big"></span>
+            </span>
+          </a>
+          <a
+            v-else
             href="#"
             class="hotspot-point"
             :style="{ top: hotspot.position.top, left: hotspot.position.left }"
@@ -11,14 +24,12 @@
             :key="index"
           >
             <span class="icon-disp" :data-title="hotspot.title">
-              <!-- <svg class="icon icon-close" viewBox="0 0 24 24">
-                <path d="M18.984 12.984h-6v6h-1.969v-6h-6v-1.969h6v-6h1.969v6h6v1.969z"></path>
-              </svg>-->
               <span class="icon-big"></span>
             </span>
           </a>
         </template>
       </transition-group>
+
       <img src="map.jpg" alt @click="closeDetails">
     </div>
     <!-- Register form modal activator -->
@@ -531,12 +542,14 @@
           </v-card>
         </v-expansion-panel-content>
 
-        <!-- Photography -->
+        <!-- Film & Photography -->
         <v-expansion-panel-content>
           <template v-slot:header>
-            <div id="Photography" style="margin: auto;" class="grey lighten-3">
+            <div id="FilmPhotography" style="margin: auto;" class="grey lighten-3">
               <v-toolbar color="#151515" dark>
-                <v-toolbar-title style="font-family: 'Permanent Marker', cursive;">FIELD</v-toolbar-title>
+                <v-toolbar-title
+                  style="font-family: 'Permanent Marker', cursive;"
+                >Film and Photography</v-toolbar-title>
                 <v-spacer></v-spacer>
               </v-toolbar>
             </div>
@@ -746,8 +759,8 @@ const hotspots = [
   },
   {
     id: 12,
-    title: "Photography",
-    panelIndex: 2,
+    title: "Film & Photography",
+    panelIndex: 8,
     position: { top: "25%", left: "77%" }
   },
   {
@@ -799,8 +812,6 @@ export default {
         .join("")
         .replace(/&/g, "");
 
-      // this.panels[hotspot.panelIndex] = true;
-      // this.panels = this.panels.map(el => {});
       this.panels = +hotspot.panelIndex;
       setTimeout(() => {
         this.$vuetify.goTo(`#${id}`);
