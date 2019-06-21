@@ -17,7 +17,7 @@
         class="img-sm-to-md"
         :src="wavesLogo"
       ></v-img>
-      <v-img v-else width="70vw" height="60vh" contain class="img-xs-only" :src="wavesLogo"></v-img>
+      <v-img v-else width="80vw" height="30vh" contain class="img-xs-only" :src="wavesLogo"></v-img>
       <v-btn
         v-if="touch"
         id="navigate-down"
