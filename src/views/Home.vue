@@ -7,7 +7,7 @@
     <v-container fluid id="home-about">
       <v-layout wrap>
         <v-flex xs12>
-          <v-card min-height="360px"  color="rgba(200,200,200,0.3)" class="cards black--text">
+          <v-card min-height="360px" color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
                 <div class="headline">ABOUT US</div>
@@ -19,7 +19,7 @@
           </v-card>
         </v-flex>
         <v-flex xs12>
-          <v-card min-height="360px"  color="rgba(200,200,200,0.3)" class="cards black--text">
+          <v-card min-height="360px" color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
                 <div class="headline">ABOUT THE THEME</div>
@@ -39,9 +39,9 @@
 // import * as THREE from 'three'
 export default {
   name: "Home",
-  methods:{
+  methods: {
     goEvents() {
-      this.$router.push({name:'Events'})
+      this.$router.push({ name: "Events" });
     }
   },
   components: {
@@ -61,11 +61,11 @@ export default {
   background-size: cover;
   background-repeat: repeat;
 }
-.button{
-  text-align:center;
+.button {
+  text-align: center;
 }
-.btn{
-  margin-top:-250px;
+.btn {
+  margin-top: -250px;
 }
 .cards {
   margin: 20px;
@@ -75,7 +75,7 @@ export default {
 }
 .subheading {
   font-family: "Montserrat", cursive !important;
-  font-size: 1.75vw !important;
+  font-size: 1.3rem !important;
 }
 </style>
 
