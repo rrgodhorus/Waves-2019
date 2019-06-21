@@ -9,6 +9,7 @@
             target="_blank"
             class="hotspot-point"
             :style="{ top: hotspot.position.top, left: hotspot.position.left }"
+            @click="hotspotClicked(hotspot, index)"
             :key="index"
           >
             <span class="icon-disp" :data-title="hotspot.title">
@@ -848,7 +849,7 @@ $spot-color: #312525f1;
 }
 .subheading {
   font-family: "Montserrat", cursive !important;
-  font-size: 1.75vw !important;
+  font-size: 1.3rem !important;
 }
 
 .icon {
