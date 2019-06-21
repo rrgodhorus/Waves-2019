@@ -658,7 +658,7 @@
                   <v-card color="rgba(0,0,0,0.4)" class="white--text">
                     <v-card-title primary-title>
                       <div>
-                        <div class="headline">IRSHAAD</div>
+                        <div class="headline">IRSHAD</div>
                         <span
                           class="subheading"
                         >“Irshad” is a Hindi-Urdu performance poetry competition which aims at bringing different perspectives of the things, happenings and feelings in the world, at one platform of blissful poetry. This year we plan to reach out to the poets through our regional qualifiers in Delhi, Mumbai, Bengaluru, Lucknow, Jaipur, Indore, Aligarh, Hyderabad and Goa.</span>
