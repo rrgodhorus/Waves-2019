@@ -6,7 +6,7 @@
     </div>
     <v-container fluid id="home-about">
       <v-layout wrap>
-        <v-flex xs12 sm6 md6 xl6>
+        <v-flex xs12>
           <v-card min-height="360px"  color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
@@ -18,7 +18,7 @@
             </v-card-title>
           </v-card>
         </v-flex>
-        <v-flex xs12 sm6 md6 xl6>
+        <v-flex xs12>
           <v-card min-height="360px"  color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
