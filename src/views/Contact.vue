@@ -16,7 +16,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FConvener.jpeg?alt=media&token=480977a4-7d34-4b71-818d-d17e910df2cc"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/IMG_20181112_190327__01.jpeg?alt=media&token=53084f18-3aa9-49ea-8357-03d8c4dc98ef"
                 class="image"
               >
             </v-avatar>
@@ -42,7 +42,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FBharat.jpeg?alt=media&token=2bfe1302-0563-4e86-b9af-9c77c30b6f95"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Bharat.jpeg?alt=media&token=b4bbf164-882d-43ea-a9ad-05cd72207bcf"
                 class="image"
               >
             </v-avatar>
@@ -62,7 +62,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSanyukta_1.jpg?alt=media&token=ae3023e4-5103-4d47-ad8f-0cba6be996e4"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Sanyukta_1.jpg?alt=media&token=a0b09fe2-a2df-44b6-a50d-e3db7726a24a"
                 class="image"
               >
             </v-avatar>
@@ -82,7 +82,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FKratik.jpeg?alt=media&token=5b52c63d-dfc9-42de-bf14-7b6c70450490"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Kratik.jpeg?alt=media&token=ce9f2c52-ec0b-43ba-9925-d262817847ec"
                 class="image"
               >
             </v-avatar>
@@ -108,7 +108,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAnekait%20Kariya.jpeg?alt=media&token=990cb890-7c58-4e12-9cac-00b481b4050c"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Anekait%20Kariya.jpeg?alt=media&token=c0c8a54b-fb08-470d-b4a8-bfa4d35ada6a"
                 class="image"
               >
             </v-avatar>
@@ -128,7 +128,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAditya%20Singh%20Rathore.jpeg?alt=media&token=a92b2f7d-650c-4129-ab10-7b894058b200"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Aditya%20Singh%20Rathore.jpeg?alt=media&token=37762010-e68b-43dc-8309-ca6d0a814f01"
                 class="image"
               >
             </v-avatar>
@@ -148,7 +148,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FGunjan%20Samtani.jpg?alt=media&token=067e32f4-3fc6-4c19-9461-b75a229adf08"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Gunjan%20Samtani.jpg?alt=media&token=631a5250-4740-44f9-ae46-ac4f7acf6ad0"
                 class="image"
               >
             </v-avatar>
@@ -174,7 +174,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FYash.jpg?alt=media&token=df1492ba-c4f1-4294-874f-387facbaba52"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Yash%20Baranwal.jpg?alt=media&token=40ad2877-a946-43c6-b62e-4e3aa280da5e"
                 class="image"
               >
             </v-avatar>
@@ -194,7 +194,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSiddak.jpg?alt=media&token=b11a3f0e-a699-4b93-98e5-311e224688d9"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Siddak%20Bakshi.jpg?alt=media&token=d96cef46-f939-49c3-b37c-7f08f30f7f1e"
                 class="image"
               >
             </v-avatar>
@@ -216,7 +216,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FChainika%20Shah.jpg?alt=media&token=ba6d617c-e9ef-4f33-9867-b6c09cdb0dd5"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Chainika%20Shah.jpg?alt=media&token=21093d15-0791-4f6f-9098-b15814943ed8"
                 class="image"
               >
             </v-avatar>
@@ -236,7 +236,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSarthak%20Dwivedi.jpg?alt=media&token=5d23d688-265f-43aa-880c-4f206919a504"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Sarthak%20Dwivedi.jpg?alt=media&token=793f66c3-db8f-4fbd-a263-86946fb9c40e"
                 class="image"
               >
             </v-avatar>
@@ -262,7 +262,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FMadhulika.jpg?alt=media&token=28de54d7-1de6-42f1-84ed-cbcaa1ce4edd"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Madhulika.jpg?alt=media&token=fa626c8c-cbb7-4433-bc26-4ac937ff7964"
                 class="image"
               >
             </v-avatar>
@@ -282,7 +282,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSujith.jpeg?alt=media&token=7377f082-b6e6-4b83-87ba-20381b67e0a0"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Sujith.jpeg?alt=media&token=d759e888-bc6c-44aa-9c6f-f77d77be6af3"
                 class="image"
               >
             </v-avatar>
@@ -308,7 +308,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FMohanish%20Mhatre.jpg?alt=media&token=020dc393-a596-4311-b454-4f91f92f20c4"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Mohanish%20Mhatre.jpg?alt=media&token=6e66a595-718b-4f6e-9ba6-4ea7a05ab89a"
                 class="image"
               >
             </v-avatar>
@@ -328,7 +328,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FHarshdeep.jpeg?alt=media&token=85ba9863-f5db-4a27-a96c-3678229f14a1"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Harshdeep.jpeg?alt=media&token=0ff411fc-db97-4543-bd03-d43a5696ee75"
                 class="image"
               >
             </v-avatar>
@@ -354,7 +354,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSiddhesh%20Dalvi-Chief%20Coordinator.jpg?alt=media&token=b885586b-acb6-4856-a659-f200cc1b280c"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Siddhesh%20Dalvi-Chief%20Coordinator.jpg?alt=media&token=d707351a-cee1-476f-a235-58c236117c46"
                 class="image"
               >
             </v-avatar>
@@ -374,7 +374,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAkshat_Adarsh_Nights_Head.jpg?alt=media&token=a0924ff8-1e2f-4342-a914-c9a0ca761ccc"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Akshat_Adarsh_Nights_Head.jpg?alt=media&token=63436c65-bb55-43ce-8769-9c8f9f2f1c2a"
                 class="image"
               >
             </v-avatar>
@@ -400,7 +400,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FANIKET_CHANDRA.jpg?alt=media&token=c59b7993-7926-4a43-b758-32f87ea44d19"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/ANIKET_CHANDRA.jpg?alt=media&token=79ba23d8-755f-45fb-a7ec-a140fcf7aca0"
                 class="image"
               >
             </v-avatar>
@@ -420,7 +420,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAYUSH_MITTAL.jpg?alt=media&token=db5147cb-7e01-4805-a1c5-5f87685996ac"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/AYUSH_MITTAL.jpg?alt=media&token=4f886f70-d36c-4631-9cfd-d67b1ddd3743"
                 class="image"
               >
             </v-avatar>
@@ -442,7 +442,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAaryan%20Goyal.jpeg?alt=media&token=c0bf62a8-94ce-452b-9c51-7a9c6144de0f"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Aaryan%20Goyal.jpeg?alt=media&token=dd9dd2d8-278f-4ca4-995e-6eafa885d3e5"
                 class="image"
               >
             </v-avatar>
@@ -462,7 +462,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAviral%20Bansal.jpeg?alt=media&token=fffbf58b-bca7-43d5-823e-b30557b72798"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Aviral%20Bansal.jpeg?alt=media&token=96cdcb36-76ee-4213-89b8-fa09498e69b0"
                 class="image"
               >
             </v-avatar>
@@ -488,7 +488,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FSahil%20Goyal.jpg?alt=media&token=036825be-8e32-4868-bfb9-143c0cc549f9"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Sahil%20Goyal.jpg?alt=media&token=c073b427-fb4f-4545-ac00-c46d21a668fe"
                 class="image"
               >
             </v-avatar>
@@ -508,7 +508,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FLuv%20Nath.jpeg?alt=media&token=74e4e6f1-06a2-412d-8724-0cd09a8ce6fe"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Luv%20Nath.jpeg?alt=media&token=59f2ca7d-2b7e-4a92-bd50-41bc2c45042e"
                 class="image"
               >
             </v-avatar>
@@ -528,7 +528,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAnand%20Balaji.jpeg?alt=media&token=69aff234-e0f9-4215-b5fb-730eab4fb6c0"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Anand%20Balaji.jpeg?alt=media&token=3e3482b6-1bec-49e5-98c3-dadc53ea92cd"
                 class="image"
               >
             </v-avatar>
@@ -554,7 +554,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FShashwat.jpg?alt=media&token=dc44ac69-7a6a-4170-86e9-c0654ae47759"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Shashwat.jpg?alt=media&token=236f6dfa-a072-4766-bae7-7d26d1d65612"
                 class="image"
               >
             </v-avatar>
@@ -574,7 +574,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FParth.jpg?alt=media&token=3c70ccb4-0aab-415f-9298-d0720a5a2218"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Parth.jpg?alt=media&token=f942966d-9d1b-4504-9e29-07fde0621ef7"
                 class="image"
               >
             </v-avatar>
@@ -600,7 +600,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FArjun_Agarwal.jpg?alt=media&token=dad7f96d-842d-4fe8-a61a-c74491bb44c3"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Arjun_Agarwal.jpg?alt=media&token=61c6df90-e3a9-4b8f-8955-fc9fa6082ea2"
                 class="image"
               >
             </v-avatar>
@@ -620,7 +620,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FRitvik.jpeg?alt=media&token=2e35ac9d-e0a2-4e4b-8e5e-c67b87ea63aa"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Ritvik.jpeg?alt=media&token=3095ef1a-20d3-4101-bcf7-f81214665ad4"
                 class="image"
               >
             </v-avatar>
@@ -646,7 +646,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FDivya.jpeg?alt=media&token=eb6a5118-9310-4f21-89ed-38ec42b902e7"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Divya.jpeg?alt=media&token=a67a5a37-280d-4c5f-b22f-df495f67a26f"
                 class="image"
               >
             </v-avatar>
@@ -666,7 +666,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FArshika.jpeg?alt=media&token=e4172e00-1092-4489-8729-c40b02b703cd"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Arshika.jpeg?alt=media&token=723b1e69-9330-48cf-8666-2a9947c5849b"
                 class="image"
               >
             </v-avatar>
@@ -686,7 +686,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FMeera.jpeg?alt=media&token=75b9567b-4b2e-422e-9e43-eaf55fc9f124"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Meera.jpeg?alt=media&token=ab91cf0d-1806-4617-8c83-bde601643ecc"
                 class="image"
               >
             </v-avatar>
@@ -712,7 +712,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FShravan%20Kumar.jpg?alt=media&token=b9fdbfad-fe9d-4152-bb72-34f0ca1febc6"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Shravan%20Kumar.jpg?alt=media&token=219b8ac0-6347-4f1f-afa3-c6b0271f1acf"
                 class="image"
               >
             </v-avatar>
@@ -732,7 +732,7 @@
           <div class="img-1">
             <v-avatar size="175" class="img-container">
               <img
-                src="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FAmey%20Jain.jpeg?alt=media&token=a17f9533-c8f0-4956-a965-8f21452ff661"
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Amey%20Jain.jpeg?alt=media&token=fe6214d5-58fe-43f7-8699-75d285f372af"
                 class="image"
               >
             </v-avatar>
@@ -826,7 +826,7 @@ export default {
 
 .outside {
   width: 100%;
-  background: url("https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/contacts%2FBackground.jpg?alt=media&token=9ebe4fba-b295-4814-8140-408b6df799c1");
+  background: url("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Backgrounds%2FBackground_Events.jpg?alt=media&token=d2a2bd28-36f6-43de-825c-8de42b473ed8");
 
   padding-left: 0px;
   padding-right: 0px;
