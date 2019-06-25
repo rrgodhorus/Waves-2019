@@ -41,7 +41,7 @@
           large
           color="secondary"
           dark
-          href="https://firebasestorage.googleapis.com/v0/b/waves-2019.appspot.com/o/Rulebook.pdf?alt=media&token=90ccca56-4a64-41de-afc1-6a9ab19a174c"
+          href="https://drive.google.com/open?id=1WqhCfMfOy4VKbWZMi_nZZ5aQ5EfM3cUE"
           target="_blank"
         >Get the Rulebook</v-btn>
       </v-layout>
