@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="navbar">
     <v-navigation-drawer app temporary class="hidden-sm-and-up" v-model="sideNav">
       <v-toolbar flat>
         <v-toolbar-side-icon @click.stop="sideNav = !sideNav">
@@ -51,3 +51,10 @@ export default {
   }
 };
 </script>
+
+<style>
+.navbar{
+  z-index:9999;
+}
+</style>
+
