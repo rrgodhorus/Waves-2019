@@ -424,6 +424,17 @@
                 </v-flex>
 
                 <v-flex xs12>
+                  <v-card color="rgba(0,0,0,0.45)" class="white--text">
+                    <v-card-title primary-title>
+                      <div>
+                        <div class="headline">Melas</div>
+                        <span class="subheading">“Everything irrelevant to life”</span>
+                      </div>
+                    </v-card-title>
+                  </v-card>
+                </v-flex>
+
+                <v-flex xs12>
                   <v-card color="rgba(0,0,0,0.5)" class="white--text">
                     <v-card-title primary-title>
                       <div>
@@ -524,17 +535,6 @@
                       <div>
                         <div class="headline">Voyage – The Travel and Living Quiz</div>
                         <span class="subheading">“How far do you think you can go? “</span>
-                      </div>
-                    </v-card-title>
-                  </v-card>
-                </v-flex>
-
-                <v-flex xs12>
-                  <v-card color="rgba(0,0,0,0.45)" class="white--text">
-                    <v-card-title primary-title>
-                      <div>
-                        <div class="headline">Melas</div>
-                        <span class="subheading">“Everything irrelevant to life”</span>
                       </div>
                     </v-card-title>
                   </v-card>
