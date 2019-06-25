@@ -1,10 +1,13 @@
 <template>
   <div class="bg-pic">
     <waves/>
+    <div class="button">
+      <v-btn large round color="rgb(172,88,44)" @click="goEvents" class="btn">Register</v-btn>
+    </div>
     <v-container fluid id="home-about">
       <v-layout wrap>
-        <v-flex xs12 sm6 md6 xl6>
-          <v-card min-height="360px"  color="rgba(200,200,200,0.3)" class="cards black--text">
+        <v-flex xs12>
+          <v-card min-height="360px" color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
                 <div class="headline">ABOUT US</div>
@@ -15,8 +18,8 @@
             </v-card-title>
           </v-card>
         </v-flex>
-        <v-flex xs12 sm6 md6 xl6>
-          <v-card min-height="360px"  color="rgba(200,200,200,0.3)" class="cards black--text">
+        <v-flex xs12>
+          <v-card min-height="360px" color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
                 <div class="headline">ABOUT THE THEME</div>
@@ -36,7 +39,11 @@
 // import * as THREE from 'three'
 export default {
   name: "Home",
-
+  methods: {
+    goEvents() {
+      this.$router.push({ name: "Events" });
+    }
+  },
   components: {
     Waves: () => import("@/components/home/Waves")
   }
@@ -54,6 +61,12 @@ export default {
   background-size: cover;
   background-repeat: repeat;
 }
+.button {
+  text-align: center;
+}
+.btn {
+  margin-top: -250px;
+}
 .cards {
   margin: 20px;
 }
@@ -62,7 +75,7 @@ export default {
 }
 .subheading {
   font-family: "Montserrat", cursive !important;
-  font-size: 1.75vw !important;
+  font-size: 1.3rem !important;
 }
 </style>
 
