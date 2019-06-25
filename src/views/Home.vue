@@ -7,7 +7,7 @@
     <v-container fluid id="home-about">
       <v-layout wrap>
         <v-flex xs12>
-          <v-card min-height="360px" hover color="rgba(200,200,200,0.3)" class="cards black--text">
+          <v-card min-height="360px" elevation="10" color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
                 <div class="headline">ABOUT US</div>
@@ -19,7 +19,7 @@
           </v-card>
         </v-flex>
         <v-flex xs12>
-          <v-card min-height="360px" hover color="rgba(200,200,200,0.3)" class="cards black--text">
+          <v-card min-height="360px" elevation="10" color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
                 <div class="headline">ABOUT THE THEME</div>
