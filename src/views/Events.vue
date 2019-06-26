@@ -191,7 +191,8 @@
                         <div class="headline">SeaRock</div>
                         <span
                           class="subheading"
-                        >One of the most grandiose semi-pro rock band competitions in the country. Alumni of the likes of Zygnema, The Family Cheese, Knight Shades, and Inner Sanctum. Bringing you enticing opportunities to showcase your talents, Searock is back with its 15th iteration this fall.</span>
+                        >One of the most grandiose semi-pro rock band competitions in the country. Alumni of the likes of Zygnema, The Family Cheese, Knight Shades, and Inner Sanctum. Bringing you enticing opportunities to showcase your talents, Searock is back with its 15th iteration this fall.</span><br/>
+                        <a href="http://searock.bitswaves.org/" class="subheading">Click here to Register</a>
                       </div>
                     </v-card-title>
                   </v-card>
