@@ -196,6 +196,20 @@
                     </v-card-title>
                   </v-card>
                 </v-flex>
+
+                <v-flex xs12>
+                  <v-card color="rgba(0,0,0,0.6)" class="white--text">
+                    <v-card-title primary-title>
+                      <div>
+                        <div class="headline">Silence of the Amps</div>
+                        <span
+                          class="subheading"
+                          >If you wanna listen to pure music or for a delightful experience of musicians, join us in Silence Of The Amps, where you can listen to the Acoustic Covers of your favorite artists.
+                        <br>"Music that is acoustic, unwired, unplugged is it's most purest form"-Craig Conley</span>
+                      </div>
+                    </v-card-title>
+                  </v-card>
+                </v-flex>
               </v-layout>
             </v-container>
           </v-card>
@@ -410,6 +424,17 @@
                 </v-flex>
 
                 <v-flex xs12>
+                  <v-card color="rgba(0,0,0,0.45)" class="white--text">
+                    <v-card-title primary-title>
+                      <div>
+                        <div class="headline">Melas</div>
+                        <span class="subheading">“Everything irrelevant to life”</span>
+                      </div>
+                    </v-card-title>
+                  </v-card>
+                </v-flex>
+
+                <v-flex xs12>
                   <v-card color="rgba(0,0,0,0.5)" class="white--text">
                     <v-card-title primary-title>
                       <div>
@@ -430,19 +455,6 @@
                         <span
                           class="subheading"
                         >The ultimate test of your mastery of the written word! Whether you’re a practiced word wizard or just looking to kill some time with a refreshing detox, our carefully curated collection is right up to the task. Tackle a fun miscellanea of crafty puzzles - puns, palindromes, cryptic crosswords and so much more - as you valiantly vie to be the victorious virtuoso. Let the (word) games begin!</span>
-                      </div>
-                    </v-card-title>
-                  </v-card>
-                </v-flex>
-
-                <v-flex xs12>
-                  <v-card color="rgba(0,0,0,0.7)" class="white--text">
-                    <v-card-title primary-title>
-                      <div>
-                        <div class="headline">Contention</div>
-                        <span
-                          class="subheading"
-                        >Contention is BITS Goa's very own Parliamentary Debate Competition. Hosted in the British Parliamentary format and with over a 100 participants, stimulating motions, an array of prolific core adjudicators and amazing cash prizes, it is a tournament not to be missed by any debater</span>
                       </div>
                     </v-card-title>
                   </v-card>
@@ -523,17 +535,6 @@
                       <div>
                         <div class="headline">Voyage – The Travel and Living Quiz</div>
                         <span class="subheading">“How far do you think you can go? “</span>
-                      </div>
-                    </v-card-title>
-                  </v-card>
-                </v-flex>
-
-                <v-flex xs12>
-                  <v-card color="rgba(0,0,0,0.45)" class="white--text">
-                    <v-card-title primary-title>
-                      <div>
-                        <div class="headline">Melas</div>
-                        <span class="subheading">“Everything irrelevant to life”</span>
                       </div>
                     </v-card-title>
                   </v-card>
@@ -626,6 +627,20 @@
                     </v-card-title>
                   </v-card>
                 </v-flex>
+
+                <v-flex xs12>
+                  <v-card color="rgba(0,0,0,0.7)" class="white--text">
+                    <v-card-title primary-title>
+                      <div>
+                        <div class="headline">Contention</div>
+                        <span
+                          class="subheading"
+                        >Contention is BITS Goa's very own Parliamentary Debate Competition. Hosted in the British Parliamentary format and with over a 100 participants, stimulating motions, an array of prolific core adjudicators and amazing cash prizes, it is a tournament not to be missed by any debater</span>
+                      </div>
+                    </v-card-title>
+                  </v-card>
+                </v-flex>
+
 
                 <v-flex xs12>
                   <v-card color="rgba(0,0,0,0.5)" class="white--text">
