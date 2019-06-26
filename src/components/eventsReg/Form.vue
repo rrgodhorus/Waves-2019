@@ -203,7 +203,6 @@ export default {
       "Rapsody",
       "Silence of the amps",
       "Jukebox",
-      "Searock",
       "Rangmanch",
       "Nukkad Natak",
       "Avant-garde",
