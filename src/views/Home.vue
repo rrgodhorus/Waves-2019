@@ -57,7 +57,7 @@ export default {
 @import url("https://fonts.googleapis.com/css?family=Montserrat");
 
 .bg-pic {
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Backgrounds%2FBackground_Events.jpg?alt=media&token=d2a2bd28-36f6-43de-825c-8de42b473ed8");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Backgrounds%2FBackground_Events-min.jpg?alt=media&token=f73ff590-5812-43e8-b6ee-62cc2cd7e442");
   background-size: cover;
   background-repeat: repeat;
 }
