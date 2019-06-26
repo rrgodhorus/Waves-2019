@@ -7,7 +7,7 @@
     <v-container fluid id="home-about">
       <v-layout wrap>
         <v-flex xs12>
-          <v-card min-height="360px" color="rgba(200,200,200,0.3)" class="cards black--text">
+          <v-card min-height="360px" elevation="10" color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
                 <div class="headline">ABOUT US</div>
@@ -19,13 +19,13 @@
           </v-card>
         </v-flex>
         <v-flex xs12>
-          <v-card min-height="360px" color="rgba(200,200,200,0.3)" class="cards black--text">
+          <v-card min-height="360px" elevation="10" color="rgba(200,200,200,0.3)" class="cards black--text">
             <v-card-title primary-title>
               <div>
                 <div class="headline">ABOUT THE THEME</div>
                 <span
                   class="subheading"
-                >Break the chains of monotony, and set the explorer free, because this Waves we are going on an electrifying journey. Let yourself be consumed by Wanderlust, and walk through sprightly forests, rugged mountains and gushing rivers. Board the whistling trains, and sail the mighty seas. Come, En Voyage, and let adventure fill your soul. Dance among the fireflies, and listen to Summer birds sing, as you lose yourself in what promises to be an epic odyssey of three days. It’s time to move out of the shadows of everyday life, because every tale has two shades. This Waves, let’s explore the unexplored and En Voyage on Unchartered Ventures.</span>
+                >Break the chains of monotony, and set the explorer free, because this Waves we are going on an electrifying journey. Let yourself be consumed by Wanderlust, and walk through sprightly forests, rugged mountains and gushing rivers. Board the whistling trains, and sail the mighty seas. Come, En Voyage, and let adventure fill your soul. Dance among the fireflies, and listen to Summer birds sing, as you lose yourself in what promises to be an epic odyssey of three days. It’s time to move out of the shadows of everyday life, because every tale has two shades. This Waves, let’s explore the unexplored and En Voyage on Uncharted Ventures.</span>
               </div>
             </v-card-title>
           </v-card>
