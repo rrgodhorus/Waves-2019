@@ -826,7 +826,7 @@ export default {
 
 .outside {
   width: 100%;
-  background: url("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Backgrounds%2FBackground_Events.jpg?alt=media&token=d2a2bd28-36f6-43de-825c-8de42b473ed8");
+  background: url("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Backgrounds%2FBackground_Events-min.jpg?alt=media&token=f73ff590-5812-43e8-b6ee-62cc2cd7e442");
 
   padding-left: 0px;
   padding-right: 0px;
