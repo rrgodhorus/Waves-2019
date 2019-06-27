@@ -3,7 +3,7 @@
              <v-container fluid class="outside">
     <v-layout row wrap>
       <v-flex xs12>
-        <h1 class="heading-1">CONTACT US</h1>
+        <h1 class="heading-1">DEVELOPERS</h1>
       </v-flex>
     </v-layout>
 <v-layout row wrap justify-center align-center class="row">
@@ -153,8 +153,8 @@ export default {
 
 .outside {
   width: 100%;
+  height: 100vh;
   background: url("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Backgrounds%2FBackground_Events-min.jpg?alt=media&token=f73ff590-5812-43e8-b6ee-62cc2cd7e442");
-
   padding-left: 0px;
   padding-right: 0px;
 }
