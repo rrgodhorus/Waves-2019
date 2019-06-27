@@ -191,7 +191,8 @@
                         <div class="headline">SeaRock</div>
                         <span
                           class="subheading"
-                        >One of the most grandiose semi-pro rock band competitions in the country. Alumni of the likes of Zygnema, The Family Cheese, Knight Shades, and Inner Sanctum. Bringing you enticing opportunities to showcase your talents, Searock is back with its 15th iteration this fall.</span>
+                        >One of the most grandiose semi-pro rock band competitions in the country. Alumni of the likes of Zygnema, The Family Cheese, Knight Shades, and Inner Sanctum. Bringing you enticing opportunities to showcase your talents, Searock is back with its 15th iteration this fall.</span><br/>
+                        <a href="http://searock.bitswaves.org/" class="subheading">Click here to Register</a>
                       </div>
                     </v-card-title>
                   </v-card>
@@ -847,7 +848,7 @@ export default {
 $spot-color: #312525f1;
 
 .bg-pic {
-  background-image: url("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Backgrounds%2FBackground_Events.jpg?alt=media&token=d2a2bd28-36f6-43de-825c-8de42b473ed8");
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Backgrounds%2FBackground_Events-min.jpg?alt=media&token=f73ff590-5812-43e8-b6ee-62cc2cd7e442");
   background-size: cover;
   background-repeat: no-repeat;
 
