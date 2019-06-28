@@ -685,6 +685,22 @@
                     </v-card-title>
                   </v-card>
                 </v-flex>
+
+
+                <v-flex xs12>
+                  <v-card color="rgba(0,0,0,0.4)" class="white--text">
+                    <v-card-title primary-title>
+                      <div>
+                        <div class="headline">Human Library</div>
+                        <span
+                          class="subheading"
+                        >Everyone of us has a story to tell. The person sitting next to you on the train, the guy who just sold you coffee - all of their lives are bundles of experiences just waiting to be told. And what better way to relate to these tales than a book? Even better, a human book? This Waves, engulf yourself in a story told like never before! Come to the Human Library, and uncover the mesmerising tales of our wonderful and energetic "books".</span>
+                      </div>
+                    </v-card-title>
+                  </v-card>
+                </v-flex>
+
+
               </v-layout>
             </v-container>
           </v-card>
