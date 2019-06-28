@@ -435,18 +435,7 @@
                   </v-card>
                 </v-flex>
 
-                <v-flex xs12>
-                  <v-card color="rgba(0,0,0,0.5)" class="white--text">
-                    <v-card-title primary-title>
-                      <div>
-                        <div class="headline">Lit Quiz</div>
-                        <span
-                          class="subheading"
-                        >The Literary Quiz of Waves 2019 is your ultimate destination to put to use the endless hours spent poring over everything that's lit; Chaucer to Chandra, Wordsworth to Wodehouse, nothing is off-limits for this no-holds barred battle for the prize. Literary; it's literally just this.</span>
-                      </div>
-                    </v-card-title>
-                  </v-card>
-                </v-flex>
+               
 
                 <v-flex xs12>
                   <v-card color="rgba(0,0,0,0.45)" class="white--text">
@@ -716,7 +705,7 @@ const hotspots = [
   },
   {
     id: 2,
-    title: "Mr & Mrs Waves",
+    title: "Mr & Ms Waves",
     panelIndex: 9,
     position: { top: "22%", left: "12%" }
   },
