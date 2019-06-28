@@ -156,7 +156,7 @@
 
           <div class="details">
             <h3>Gunjan Samtani</h3>
-            <h4>Publicity and PR head</h4>
+            <h4>Publicity and PR Head</h4>
             <h4>9664702795</h4>
             <h4></h4>
           </div>
@@ -388,6 +388,29 @@
           </div>
         </v-card>
       </v-flex>
+
+
+
+
+      <v-flex sm4 xs12 class="contact">
+        <v-card class="card" elevation="5" color="rgba(0,0,0,0.75)" dark>
+          <div class="img-1">
+            <v-avatar size="175" class="img-container">
+              <img
+                src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Dhruv.jpeg?alt=media&token=ee7da80f-d9ff-469e-98bb-bd65c5ccf6db"
+                class="image"
+              >
+            </v-avatar>
+          </div>
+
+          <div class="details">
+            <h3>Dhruv Jauhar</h3>
+            <h4>Searock Head</h4>
+            <h4>9022982369</h4>
+            <h4>searock@bitswaves.org</h4>
+          </div>
+        </v-card>
+      </v-flex>
     </v-layout>
 
     <v-flex xs12>
@@ -408,7 +431,7 @@
 
           <div class="details">
             <h3>Aniket Chandra</h3>
-            <h4>Waves Informals Head</h4>
+            <h4>Waves Creative Head</h4>
             <h4>8989016050</h4>
             <h4>aniket@bitswaves.org</h4>
           </div>
