@@ -647,7 +647,7 @@
                   </v-card>
                 </v-flex>
 
-                <v-flex id="MrMrsWaves" xs12>
+                <v-flex id="MrMsWaves" xs12>
                   <v-card color="rgba(0,0,0,0.45)" class="white--text">
                     <v-card-title primary-title>
                       <div>
