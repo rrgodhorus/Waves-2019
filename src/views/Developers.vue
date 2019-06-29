@@ -1,86 +1,87 @@
 <template>
-  <div class="container">
-    <h1>Profile Card</h1>
-    <div class="row">
-        <div class="col-sm-6 col-md-4">
+   <div class="container">
+      <h1>Profile Card</h1>
+      <div class="row">
+         <div class="col-sm-6 col-md-4">
             <div class="profile-card">
-                <div class="profile-img">
-                    <img src="https://static.pexels.com/photos/14661/pexels-photo-14661.jpeg" alt="Team Image"/>
-                </div>
-                <div class="profile-content">
-                    <h2 class="title">RAJATH REGHUNATH
-                        <span>Head Developer</span>
-                        <span>rrgodhorus@gmail.com</span>
-                    </h2>
-                    <ul class="social-link">
-                        <li><a href="https://github.com/rrgodhorus"><i class="fab fa-github"></i></a></li> &emsp;
-                        <li><a href="https://www.linkedin.com/in/rajath-reghunath-4180b8163"><i class="fab fa-linkedin-in"></i></a></li>
-                    </ul>
-                </div>
+               <div class="profile-img">
+                  <img src="https://static.pexels.com/photos/14661/pexels-photo-14661.jpeg" alt="Team Image" />
+               </div>
+               <div class="profile-content">
+                  <h2 class="title">RAJATH REGHUNATH
+                     <span>Head Developer</span>
+                     <span>rrgodhorus@gmail.com</span>
+                  </h2>
+                  <ul class="social-link">
+                     <li><a href="https://github.com/rrgodhorus"><i class="fab fa-github"></i></a></li>
+                     &emsp;
+                     <li><a href="https://www.linkedin.com/in/rajath-reghunath-4180b8163"><i class="fab fa-linkedin-in"></i></a></li>
+                  </ul>
+               </div>
             </div>
-        </div>
-        <div class="col-sm-6 col-md-4">
+         </div>
+         <div class="col-sm-6 col-md-4">
             <div class="profile-card">
-                <div class="profile-img">
-                    <img src="https://static.pexels.com/photos/14661/pexels-photo-14661.jpeg" alt="Team Image"/>
-                </div>
-                <div class="profile-content">
-                    <h2 class="title">Manav Seksaria
-                        <span>Designer, Developer</span>
-                        <span>seksariamanav.2000@gmail.com</span>
-                    </h2>
-                    <ul class="social-link">
-                        <li><a href="https://github.com/rrgodhorus"><i class="fab fa-github"></i></a></li>&emsp;
-                        <li><a href="https://www.linkedin.com/in/rajath-reghunath-4180b8163"><i class="fab fa-linkedin-in"></i></a></li>
-                    </ul>
-                </div>
+               <div class="profile-img">
+                  <img src="https://static.pexels.com/photos/14661/pexels-photo-14661.jpeg" alt="Team Image" />
+               </div>
+               <div class="profile-content">
+                  <h2 class="title">Manav Seksaria
+                     <span>Designer, Developer</span>
+                     <span>seksariamanav.2000@gmail.com</span>
+                  </h2>
+                  <ul class="social-link">
+                     <li><a href="https://github.com/rrgodhorus"><i class="fab fa-github"></i></a></li>
+                     &emsp;
+                     <li><a href="https://www.linkedin.com/in/rajath-reghunath-4180b8163"><i class="fab fa-linkedin-in"></i></a></li>
+                  </ul>
+               </div>
             </div>
-        </div>
-        <div class="col-sm-6 col-md-4">
+         </div>
+         <div class="col-sm-6 col-md-4">
             <div class="profile-card">
-                <div class="profile-img">
-                    <img src="https://static.pexels.com/photos/14661/pexels-photo-14661.jpeg" alt="Team Image"/>
-                </div>
-                <div class="profile-content">
-                    <h2 class="title">Nikhil Boddupalli
-                        <span>Designer,Developer</span>
-                        <span>nikhil2001.12.5@gmail.com</span>
-                    </h2>
-                    <ul class="social-link">
-                        <li><a href="https://github.com/f20180106"><i class="fab fa-github"></i></a></li>&emsp;
-                        <li><a href="https://www.linkedin.com/in/nikhil-boddupalli-504257129/"><i class="fab fa-linkedin-in"></i></a></li>
-                    </ul>
-                </div>
+               <div class="profile-img">
+                  <img src="https://static.pexels.com/photos/14661/pexels-photo-14661.jpeg" alt="Team Image" />
+               </div>
+               <div class="profile-content">
+                  <h2 class="title">Nikhil Boddupalli
+                     <span>Designer,Developer</span>
+                     <span>nikhil2001.12.5@gmail.com</span>
+                  </h2>
+                  <ul class="social-link">
+                     <li><a href="https://github.com/f20180106"><i class="fab fa-github"></i></a></li>
+                     &emsp;
+                     <li><a href="https://www.linkedin.com/in/nikhil-boddupalli-504257129/"><i class="fab fa-linkedin-in"></i></a></li>
+                  </ul>
+               </div>
             </div>
-        </div>
-        <div class="col-sm-6 col-md-4">
+         </div>
+         <div class="col-sm-6 col-md-4">
             <div class="profile-card">
-                <div class="profile-img">
-                    <img src="https://static.pexels.com/photos/14661/pexels-photo-14661.jpeg" alt="Team Image"/>
-                </div>
-                <div class="profile-content">
-                    <h2 class="title">Henry Polles
-                        <span>Designer,Developer</span>
-                    </h2>
-                    <ul class="social-link">
-                        <li><a href="https://github.com/rrgodhorus"><i class="fab fa-github"></i></a></li>&emsp;
-                        <li><a href="https://www.linkedin.com/in/rajath-reghunath-4180b8163"><i class="fab fa-linkedin-in"></i></a></li>
-                    </ul>
-                </div>
+               <div class="profile-img">
+                  <img src="https://static.pexels.com/photos/14661/pexels-photo-14661.jpeg" alt="Team Image" />
+               </div>
+               <div class="profile-content">
+                  <h2 class="title">Henry Polles
+                     <span>Designer,Developer</span>
+                  </h2>
+                  <ul class="social-link">
+                     <li><a href="https://github.com/rrgodhorus"><i class="fab fa-github"></i></a></li>
+                     &emsp;
+                     <li><a href="https://www.linkedin.com/in/rajath-reghunath-4180b8163"><i class="fab fa-linkedin-in"></i></a></li>
+                  </ul>
+               </div>
             </div>
-        </div>
-    </div>
+         </div>
+      </div>
    </div>
 </template>
 
-
-
 <script>
-export default {
-    
-}
-</script>
+  export default {
 
+  }
+</script>
 
 <style scoped>
 .developers{
@@ -208,7 +209,7 @@ export default {
           color: #6e5494;
           background-color: rgba(256,256,256,0.5);
           border: 10px;
-          border-radius: 50px; 
+          border-radius: 50px;
           transition: all 0.5s;
 
         }
@@ -222,7 +223,7 @@ export default {
           line-height: 100%;
           background-color: rgba(256,256,256,0.5);
           border: 100px;
-          border-radius: 20px; 
+          border-radius: 20px;
           transition: all 0.5s;
 
         }
