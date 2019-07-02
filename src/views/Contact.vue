@@ -726,7 +726,7 @@
     </v-layout>
 
     <v-flex xs12>
-      <h2 class="heading-2">Surveillance and Assistance</h2>
+      <h2 class="heading-2">Surveillance</h2>
     </v-flex>
 
     <v-layout row wrap justify-center align-center>
@@ -743,9 +743,9 @@
 
           <div class="details">
             <h3>Shravan Kumar</h3>
-            <h4>Waves Surveillance Head</h4>
+            <h4>Waves Head</h4>
             <h4>9686401569</h4>
-            <h4></h4>
+            <h4>shravan@bitswaves.org</h4>
           </div>
         </v-card>
       </v-flex>
@@ -765,7 +765,7 @@
             <h3>Amey Jain</h3>
             <h4>Chief Coordinator</h4>
             <h4>9850995162</h4>
-            <h4></h4>
+            <h4>amey@bitswaves.org</h4>
           </div>
         </v-card>
       </v-flex>
