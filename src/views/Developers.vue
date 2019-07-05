@@ -1,7 +1,8 @@
 <template>
-   <div class="container">
-      <h1>Profile Card</h1>
-      <div class="row">
+   <div class="container developers row">
+         <vue-particles color="#fff" :particleOpacity="0.6" :particlesNumber="100" shapeType="circle" :particleSize="3" 
+         linesColor="#fff" :linesWidth="1" :lineLinked="true" :lineOpacity="0.4" :linesDistance="150" :moveSpeed="4"
+        :hoverEffect="true" hoverMode="grab" :clickEffect="true" clickMode="push" class="particles-js" ></vue-particles>
          <div class="col-sm-6 col-md-4">
             <div class="profile-card">
                <div class="profile-img">
@@ -73,7 +74,6 @@
                </div>
             </div>
          </div>
-      </div>
    </div>
 </template>
 
@@ -85,9 +85,31 @@
 
 <style scoped>
 .developers{
-    height:100%;
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Backgrounds%2FBackground_Events.jpg?alt=media&token=d2a2bd28-36f6-43de-825c-8de42b473ed8");
+    background-color: black;
+    width: 100vw;
 }
+* { margin: 0 !important;}
+
+
+  .particles-js {
+    background-size: cover;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+  .container {
+    position: relative;
+    -webkit-align-items: center;
+    -ms-flex-align: center;
+    align-items: center;
+    display: -webkit-flex;
+    display: flex;
+    height: 100%;
+    justify-content: center;
+  }
+
 @import 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css';
 @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css';
 
@@ -227,4 +249,5 @@
           transition: all 0.5s;
 
         }
+
 </style>
