@@ -83,6 +83,7 @@
   }
 </script>
 
+<style scoped src='./bootstrap.min.css'></style>
 <style scoped>
 .developers{
     background-color: black;
@@ -110,7 +111,6 @@
     justify-content: center;
   }
 
-@import 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css';
 @import 'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.8.2/css/all.css';
 
 .profile-card{
