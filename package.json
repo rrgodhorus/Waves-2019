@@ -12,6 +12,7 @@
     "test:unit": "vue-cli-service test:unit"
   },
   "dependencies": {
+    "bootstrap-vue": "^2.0.0-rc.26",
     "firebase": "^6.2.0",
     "three-full": "^17.1.0",
     "vue": "^2.6.6",
