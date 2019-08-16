@@ -41,7 +41,7 @@
           large
           color="secondary"
           dark
-          href="https://drive.google.com/open?id=1WqhCfMfOy4VKbWZMi_nZZ5aQ5EfM3cUE"
+          href="https://drive.google.com/file/d/1Ek47TrqBJ_MonCwqmR1NwX33n-GL7pZf/view?usp=sharing"
           target="_blank"
         >Get the Rulebook</v-btn>
       </v-layout>
