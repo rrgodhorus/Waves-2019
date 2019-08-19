@@ -42,10 +42,10 @@ export default {
     return {
       sideNav: false,
       links: [
-        { icon: "mdi-home", name: "Home", route: "/" },
-        { icon: "mdi-calendar-text", name: "Events", route: "/event" },
-        { icon: "mdi-account-box", name: "Contact Us", route: "/contact-us" }
-        // { icon: "developer_board", name: "Developers", route: "/developer" }
+        { name: "Home", route: "/" },
+        { name: "Events", route: "/event" },
+        { name: "Contact Us", route: "/contact-us" },
+        { name: "Developers", route: "/developer" }
       ]
     };
   }
