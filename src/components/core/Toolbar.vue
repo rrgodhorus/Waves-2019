@@ -3,7 +3,7 @@
     <v-navigation-drawer app temporary class="hidden-sm-and-up" v-model="sideNav">
       <v-toolbar flat>
         <v-toolbar-side-icon @click.stop="sideNav = !sideNav">
-          <v-img :src="require('@/assets/logo_waves.png')" cover @click="$vuetify.goTo(0)"/>
+          <v-img :src="require('@/assets/logo_waves.png')" cover @click="$vuetify.goTo(0)" />
         </v-toolbar-side-icon>
         <v-toolbar-title>
           <router-link to="/" tag="span" style="cursor: pointer">Waves 2019</router-link>
@@ -12,7 +12,7 @@
       <v-list>
         <v-list-tile v-for="(link,index) in links" :key="index" :to="link.route">
           <v-icon left>{{ link.icon }}</v-icon>
-          <v-list-tile-title v-text="link.name"/>
+          <v-list-tile-title v-text="link.name" />
         </v-list-tile>
       </v-list>
     </v-navigation-drawer>
@@ -21,7 +21,7 @@
       <v-toolbar-side-icon color="white" @click.stop="sideNav = !sideNav" class="hidden-sm-and-up"></v-toolbar-side-icon>
       <v-toolbar-title>
         <router-link to="/" tag="span" style="cursor: pointer">
-          <img src="WavesLogo.png" height="75px" alt="Waves">
+          <img src="WavesLogo.png" height="75px" alt="Waves" />
         </router-link>
       </v-toolbar-title>
       <v-spacer></v-spacer>
@@ -44,7 +44,8 @@ export default {
       links: [
         { icon: "mdi-home", name: "Home", route: "/" },
         { icon: "mdi-calendar-text", name: "Events", route: "/event" },
-        { icon: "mdi-account-box", name: "Contact Us", route: "/contact-us" }
+        { icon: "mdi-account-box", name: "Contact Us", route: "/contact-us" },
+        { icon: "mdi-account", name: "Sponsors", route: "/sponsors" }
         // { icon: "developer_board", name: "Developers", route: "/developer" }
       ]
     };
@@ -53,8 +54,8 @@ export default {
 </script>
 
 <style>
-.navbar{
-  z-index:9999;
+.navbar {
+  z-index: 9999;
 }
 </style>
 
