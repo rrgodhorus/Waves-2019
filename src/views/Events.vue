@@ -48,7 +48,7 @@
     </div>
     <!-- Register form modal activator -->
     <div class="bg-pic">
-      <form />
+      <Form />
       <v-layout
         row
         justify-center
