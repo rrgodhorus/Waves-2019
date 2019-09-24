@@ -3,6 +3,7 @@ import Router from 'vue-router'
 import Home from './views/Home.vue'
 import Events from './views/Events.vue'
 import Contact from './views/Contact.vue'
+import Sponsors from './views/Sponsors.vue'
 
 Vue.use(Router)
 
@@ -29,6 +30,11 @@ export default new Router({
       path: '/contact-us',
       name: 'Contact Us',
       component: Contact
+    },
+    {
+      path: '/sponsors',
+      name: 'Sponsors',
+      component: Sponsors
     },
     {
       path: '*',

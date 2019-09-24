@@ -48,7 +48,7 @@
     </div>
     <!-- Register form modal activator -->
     <div class="bg-pic">
-      <Form />
+      <register-form />
       <v-layout
         row
         justify-center
@@ -1276,7 +1276,7 @@
   export default {
     name: 'Events',
     components: {
-      Form: () => import('@/components/eventsReg/Form')
+      RegisterForm: () => import('@/components/eventsReg/RegisterForm')
     },
     data () {
       return {

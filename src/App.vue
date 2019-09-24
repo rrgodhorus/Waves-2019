@@ -1,7 +1,7 @@
 <template>
   <v-app>
-    <core-toolbar/>
-    <core-view/>
+    <core-toolbar />
+    <core-view />
 
     <!-- <core-footer /> -->
   </v-app>
@@ -9,10 +9,10 @@
 
 <script>
   export default {
-    name: "App",
+    name: 'App',
     components: {
       // CoreFooter: () => import('@/components/core/Footer'),
-      CoreToolbar: () => import("@/components/core/Toolbar"),
+      CoreToolbar: () => import('@/components/core/Toolbar'),
       CoreView: () => import('@/components/core/View')
     },
     data () {
