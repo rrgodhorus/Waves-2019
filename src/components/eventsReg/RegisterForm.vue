@@ -264,6 +264,8 @@ export default {
           this.snackbarStatus = 0;
           this.snackbar = true;
           this.registerLoading = false;
+          alert("Registration Successful");
+          window.open("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Waves'19%20Payment%20Tutorial.pdf?alt=media&token=3453d9d7-efb3-42d7-9f0c-62580d8e1e67", '_blank');
         }
       });
     }
