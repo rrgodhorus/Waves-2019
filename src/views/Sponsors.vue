@@ -227,23 +227,27 @@
         </div>
       </v-flex>
 
+
+
       <v-flex
         sm4
         xs12
         class="card-cont"
       >
         <div class="card">
-          <div class="box box1">
+          <div class="box box3">
             <img
-              class="card-image-2"
-              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/New%20Sponsors%2Fnoname?alt=media&token=0ec9bc4d-0115-4237-8e16-9c7bd64da45f"
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/New%20Sponsors%2Fswing.png?alt=media&token=ea715584-e68f-4128-9095-0850bcb48f2f"
             >
-            <h2>BITS Pilani</h2>
-            <p>KK Birla Goa Campus</p>
+            <h2>Swing</h2>
+            <p>Official Festival Partner of Waves'19</p>
           </div>
           <div class="bg" />
         </div>
       </v-flex>
+
+     
 
       <v-flex
         sm4
@@ -262,6 +266,32 @@
           <div class="bg" />
         </div>
       </v-flex>
+    </div>
+
+
+
+    <div class="quotes">
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/New%20Sponsors%2Fnoname?alt=media&token=0ec9bc4d-0115-4237-8e16-9c7bd64da45f"
+            >
+            <h2>BITS Pilani</h2>
+            <p>KK Birla Goa Campus</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+   
     </div>
 
 
