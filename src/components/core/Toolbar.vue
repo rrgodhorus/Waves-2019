@@ -11,7 +11,7 @@
       </v-toolbar>
       <v-list>
         
-          <v-list-tile v-for="(link,index) in links" :key="index" :to="link.route">
+          <v-list-tile v-for="(link,index) in links" :key="index" :to="link.route" :target="link.name == 'Sponsors' ? '_blank' : 'self'">
             <v-icon left>{{ link.icon }}</v-icon>
             <v-list-tile-title v-text="link.name" />
           </v-list-tile>
