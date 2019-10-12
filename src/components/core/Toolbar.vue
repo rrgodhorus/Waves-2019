@@ -10,10 +10,11 @@
         </v-toolbar-title>
       </v-toolbar>
       <v-list>
-        <v-list-tile v-for="(link,index) in links" :key="index" :to="link.route">
-          <v-icon left>{{ link.icon }}</v-icon>
-          <v-list-tile-title v-text="link.name" />
-        </v-list-tile>
+        
+          <v-list-tile v-for="(link,index) in links" :key="index" :to="link.route">
+            <v-icon left>{{ link.icon }}</v-icon>
+            <v-list-tile-title v-text="link.name" />
+          </v-list-tile>
       </v-list>
     </v-navigation-drawer>
 
@@ -26,7 +27,7 @@
       </v-toolbar-title>
       <v-spacer></v-spacer>
       <v-toolbar-items class="hidden-xs-only">
-        <v-btn flat v-for="(link,index) in links" :key="index" :to="link.route">
+        <v-btn flat v-for="(link,index) in links" :key="index" :to="link.route" :target="link.name == 'Sponsors' ? '_blank' : 'self'">
           <span class="white--text">{{ link.name }}</span>
         </v-btn>
       </v-toolbar-items>
