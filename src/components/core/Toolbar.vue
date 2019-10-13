@@ -1,5 +1,5 @@
 <template>
-  <div class="navbar">
+  <div class="navbar" v-if="route.name != 'sponsors'">
     <v-navigation-drawer app temporary class="hidden-sm-and-up" v-model="sideNav">
       <v-toolbar flat>
         <v-toolbar-side-icon @click.stop="sideNav = !sideNav">
