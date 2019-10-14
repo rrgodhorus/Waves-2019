@@ -1,5 +1,5 @@
 <template>
-  <div class="navbar" v-if="route.name != 'sponsors'">
+  <div class="navbar">
     <v-navigation-drawer app temporary class="hidden-sm-and-up" v-model="sideNav">
       <v-toolbar flat>
         <v-toolbar-side-icon @click.stop="sideNav = !sideNav">
@@ -9,9 +9,10 @@
           <router-link to="/" tag="span" style="cursor: pointer">Waves 2019</router-link>
         </v-toolbar-title>
       </v-toolbar>
-      <v-list>
+      <v-list v-if="$route.path != '/sponsors'">
         
-          <v-list-tile v-for="(link,index) in links" :key="index" :to="link.route" :target="link.name == 'Sponsors' ? '_blank' : 'self'">
+          <v-list-tile v-for="(link,index) in links" :key="index" :to="link.route" :target="link.name == 'Sponsors' ? '_blank' : 'self'"
+          >
             <v-icon left>{{ link.icon }}</v-icon>
             <v-list-tile-title v-text="link.name" />
           </v-list-tile>
@@ -26,8 +27,9 @@
         </router-link>
       </v-toolbar-title>
       <v-spacer></v-spacer>
-      <v-toolbar-items class="hidden-xs-only">
-        <v-btn flat v-for="(link,index) in links" :key="index" :to="link.route" :target="link.name == 'Sponsors' ? '_blank' : 'self'">
+      <v-toolbar-items class="hidden-xs-only" v-if="$route.path != '/sponsors'">
+        <v-btn flat v-for="(link,index) in links" :key="index" :to="link.route" :target="link.name == 'Sponsors' ? '_blank' : 'self'"
+        >
           <span class="white--text">{{ link.name }}</span>
         </v-btn>
       </v-toolbar-items>
