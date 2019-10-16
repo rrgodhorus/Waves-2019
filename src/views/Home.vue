@@ -5,7 +5,7 @@
       <v-btn large round color="rgb(172,88,44)" class="btn" @click="goEvents">Register</v-btn>
     </div>
     <v-container>
-      <h2 class="font-italic font-weight-black display-3" id="heading">Past versions of Waves</h2>
+      <h2 class="font-italic font-weight-black display-2" id="heading">Past versions of Waves</h2>
       <vue-glide type="slider" perView="2" bound="true" autoplay="1000" hoverpause="true">
         <vue-glide-slide v-for="(item,i) in items" :key="i">
           <v-img :src="item.src"></v-img>
