@@ -266,7 +266,7 @@ export default {
           this.snackbar = true;
           this.registerLoading = false;
           alert("Registration Successful");
-          window.open("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Waves'19%20Payment%20Tutorial-edited.pdf?alt=media&token=b458b85f-cb23-4d5c-b837-a904106a658f", '_blank');
+          window.open("https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Waves'19%20Payment%20Tutorial-edited.pdf?alt=media&token=b458b85f-cb23-4d5c-b837-a904106a658f");
         }
       });
     }
