@@ -101,7 +101,7 @@
           <div class="box box1">
             <img
               class="card-image-2"
-              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/New%20Sponsors%2FBlueDart.jpg?alt=media&token=13ba2961-c93b-4d13-9ed3-51fb1a6f00ba"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/BlueDart.jpg?alt=media&token=007ed4bc-71fb-4baf-8437-9f80a453734c"
             >
             <h2>Blue Dart</h2>
             <p>Official Logistics Partner of Waves'19
@@ -120,7 +120,7 @@
           <div class="box box1">
             <img
               class="card-image-2"
-              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/New%20Sponsors%2FFlixmates.png?alt=media&token=da5f28e2-0ef9-41ce-b178-e1f80df48a94"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Flixmates.jpg?alt=media&token=46855ad2-55c7-4a85-b5db-c853cb3f8eb5"
             >
             <h2>Flixmates</h2>
             <p>Official Partner of Waves'19</p>
@@ -138,7 +138,7 @@
           <div class="box box3">
             <img
               class="card-image-3"
-              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/New%20Sponsors%2FGrabOn.png?alt=media&token=860782c2-28cd-4596-b107-4d4996afed99"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/GrabOn.jpg?alt=media&token=cdea9ead-b79d-42ac-8f8c-78c6a4508cc8"
             >
             <h2>GrabOn</h2>
             <p>Official Savings Partner of Waves'19</p>
@@ -178,7 +178,7 @@
           <div class="box box1">
             <img
               class="card-image-2"
-              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/New%20Sponsors%2FLensfit.png?alt=media&token=acbea8e4-1993-4274-b5a5-69b71aaa8a89"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Lensfit.jpg?alt=media&token=d3e4ea36-9d52-4e99-9089-339760b88406"
             >
             <h2>Lensfit</h2>
             <p>Official Festival Partner of Waves'19</p>
@@ -218,9 +218,9 @@
           <div class="box box1">
             <img
               class="card-image-2"
-              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/New%20Sponsors%2FManforce.jpg?alt=media&token=df2762bb-9dc3-4fbf-99d9-b7c05c1555b9"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Manforce.jpg?alt=media&token=6229c12b-c045-4617-861a-341ff3b30e1b"
             >
-            <h2>Manforces</h2>
+            <h2>Manforce</h2>
             <p>Official Safety Partner of Waves'19</p>
           </div>
           <div class="bg" />
@@ -258,7 +258,7 @@
           <div class="box box3">
             <img
               class="card-image-3"
-              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/New%20Sponsors%2FTime%20(2).png?alt=media&token=91512799-9ea9-4e74-9089-b6712ad60cd1"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/TIME.jpg?alt=media&token=0e91c471-4fd8-4387-8687-3a047720236c"
             >
             <h2>Time</h2>
             <p>Official Higher Education Partner of Waves'19</p>
@@ -270,8 +270,237 @@
 
 
 
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Putz.jpg?alt=media&token=17ad9722-a492-4efc-a1f9-8274d4e9d23f"
+            >
+            <h2>Putzmeister</h2>
+            <p>Official CSR Partner of Waves'19</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/IAMIN.jpg?alt=media&token=d24aea4f-a391-4076-beac-fa1774a9c64d"
+            >
+            <h2>IAMIN</h2>
+            <p>Official Youth Partner of Waves'19</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Classmate.jpg?alt=media&token=150c5c64-94de-4866-ab1d-eeb57cb014f0"
+            >
+            <h2>Classmate</h2>
+            <p>Official Stationary Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Zoook.jpg?alt=media&token=a5563350-5475-43a4-8c95-15c495beb8c1"
+            >
+            <h2>Zoook</h2>
+            <p>Title Sponsor of Jukebox and Rapsody</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/MardiGras.jpg?alt=media&token=449329d9-6167-44c0-899d-e4c595e24e58"
+            >
+            <h2>Mardi Gras</h2>
+            <p>Title Sponsor of Sizzle</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/GoNoise.jpg?alt=media&token=63dc79ba-dfac-498f-9010-613319865b0f"
+            >
+            <h2>GoNoise</h2>
+            <p>Official Festival Partner of Waves'19</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/9stacks.png?alt=media&token=abcefeee-60b8-4a26-839b-e04612e95c4f"
+            >
+            <h2>9Stacks</h2>
+            <p>Official Poker Partner of Waves'19</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Coke.jpg?alt=media&token=807a2482-6e2b-4790-be82-7b23a8530a6e"
+            >
+            <h2>Coca-Cola</h2>
+            <p>Official Powered by Sponsor of Waves'19</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Untitled-2.jpg?alt=media&token=428239c8-16bf-42ff-8bd8-f71e7ce2c385"
+            >
+            <h2>Realme</h2>
+            <p>Associate Title Sponsor and Official Smartphone Partner of Waves '19</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     <div class="quotes">
 
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/KTM.jpg?alt=media&token=ccd9564e-2519-4f58-a68e-e19eb477d821"
+            >
+            <h2>KTM</h2>
+            <p>Official Driven By Partner of Waves '19</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
 
       <v-flex
         sm4
@@ -310,6 +539,1286 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+    <v-flex class="past-sponsors">
+			<h1>Media Releases</h1>
+    </v-flex>
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FDigitunes%20logo.png?alt=media&token=735ce81c-8f98-4c8c-8f3e-2b68a8f76d27"
+            >
+            <h2>Digitunes</h2>
+            <p>Music Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FElyuxen%20logo.png?alt=media&token=9df6977b-362a-4061-b04c-4ac6d0f4e419"
+            >
+            <h2>Elyuxen</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FOhCampus%20New%20Logo.png?alt=media&token=fe86a9e3-b7fc-4a23-b6df-e5ce2710ea6b"
+            >
+            <h2>OhCampus.com</h2>
+            <p>Online Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FDUB-Logo.png?alt=media&token=770aef2f-f2e2-4cf3-bcb1-ebde852ebd45"
+            >
+            <h2>DU Beat</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FMusic%20Unplugged.png?alt=media&token=0c668fbd-22b0-4699-9533-70882549a721"
+            >
+            <h2>MusicUnplugged.in</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2Fdu%20updates.png?alt=media&token=40d6a159-e745-467f-a7e2-7b8296444856"
+            >
+            <h2>DU Updates</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+    
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2Fcampus-times-pune-official-logo.png?alt=media&token=71fde6b3-d5c3-4577-ae2d-8baa595815dd"
+            >
+            <h2>Campus Times Pune</h2>
+            <p>Online Youth Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FInGoaNews.png?alt=media&token=7b98fb40-9fe5-4449-a5e6-fc925e5999d2"
+            >
+            <h2>In Goa News</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FVascoWatch.png?alt=media&token=6b64f313-c620-4736-a442-1970292e682a"
+            >
+            <h2>Vasco Watch</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FATKT-eng.png?alt=media&token=abee5034-6b85-4f51-86db-5cb04253ba4f"
+            >
+            <h2>ATKT.in</h2>
+            <p>Contant Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FScoreBlack.png?alt=media&token=83e06f63-cc8c-4dda-aa7f-6c4ca7ad9fa9"
+            >
+            <h2>The Score Magazine</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FLawctopus.png?alt=media&token=1d3bdcaa-55a8-48d8-9250-62331c76c8ed"
+            >
+            <h2>Lawctopus</h2>
+            <p>Online Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2Fnoticebard-logo.png?alt=media&token=3544d2ef-b202-49a4-a9d9-c9d44f1e23b8"
+            >
+            <h2>Noticeboard</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FGomantak.png?alt=media&token=4774707e-c8a7-40c6-a3be-ee21ae8648ad"
+            >
+            <h2>Gomantak Times</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FWittyfeed.jpeg?alt=media&token=538801a6-64e3-4904-81e4-70350c464c05"
+            >
+            <h2>Wittyfeed</h2>
+            <p>Online Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FLawlex.png?alt=media&token=94e95189-1289-486b-bd3a-07441a53cf77"
+            >
+            <h2>Lawlex</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FKnowafest.png?alt=media&token=41bad59d-1b09-4652-b89f-90e786662d48"
+            >
+            <h2>Knowafest.com</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FYouth%20Incorporated.png?alt=media&token=d9527de1-5ed6-493d-bdba-5e72db691031"
+            >
+            <h2>Youth Incorporated</h2>
+            <p>Youth Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FGroovenexus-logo-220x70.png?alt=media&token=9f39b08e-ec80-4a2c-beb3-70a78145b732"
+            >
+            <h2>Groovenexus</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FDainikBhaskar-Logo-Approved%20(1)-1.png?alt=media&token=c671e494-4fb1-462e-ab78-ab0950367dae"
+            >
+            <h2>Dainik Bhaskar</h2>
+            <p>Digital Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FFaadoo%20Engineers.png?alt=media&token=5f209850-b756-4821-8c20-7436ca26b2fa"
+            >
+            <h2>Faadoo Engineers</h2>
+            <p>Online Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FToTheCulture.png?alt=media&token=8cdbb5ce-5a1d-49be-bf62-07306fb02f58"
+            >
+            <h2>To The Culture</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FGTOWN%20LOGO%20(1).png?alt=media&token=4b6278fd-308c-4114-a003-5389b287231c"
+            >
+            <h2>G Town Society Magazine</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FEvents%20High.jpg?alt=media&token=c08c71a6-91ba-4388-a64d-010668c6dca3"
+            >
+            <h2>Events High</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FFests.info.png?alt=media&token=7223bc65-dbec-488a-a0e0-2b1f3a3fde47"
+            >
+            <h2>Fests.info</h2>
+            <p>Online Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FOK%20listen.jpeg?alt=media&token=9ca88952-8f88-407a-b061-d4f8cff984b1"
+            >
+            <h2>Ok Listen</h2>
+            <p>Associate Media Sponsor</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FParikrama%20inc.jpg?alt=media&token=6931e8de-6b0e-4f0e-8d37-6f6a649d519d"
+            >
+            <h2>Parikrama Inc</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FHappening%20Goa.jpg?alt=media&token=ba4bb0ea-4d4a-41c8-8390-99b3e7236495"
+            >
+            <h2>Happening Goa</h2>
+            <p>Associate media partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FFirstpost.jpeg?alt=media&token=ac5c2450-364b-4155-98ab-70ab1b8c1b97"
+            >
+            <h2>Firstpost</h2>
+            <p>Title Sponsor of Dancing Duo</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FNetwork%2018.jpeg?alt=media&token=0bc0a0f9-f45f-43e5-8f33-c04a2ef229d6"
+            >
+            <h2>News18</h2>
+            <p>Title Sponsor of Solonote</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/LOL.jpeg?alt=media&token=def11065-86ed-4500-9817-7e80c128a3f3"
+            >
+            <h2>Life Of Line</h2>
+            <p>Associate Media Sponsor</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FEvernote.png?alt=media&token=f4d087d1-e719-4072-8be0-0bf1294802b3"
+            >
+            <h2>Evernote</h2>
+            <p>Official Notes Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FMintShint.png?alt=media&token=eba1779b-982c-4935-a94e-0e2fbc7733e7"
+            >
+            <h2>Mintshint</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FRoaring%20wolf%20media.png?alt=media&token=d23ea39d-ed92-4842-8566-40b2a5ebfd6d"
+            >
+            <h2>Roaring wolf media</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/the%20indian%20express%20Logo%202018%20(1).jpg?alt=media&token=988dded9-918f-43b6-ba00-b20ee0e6c95c"
+            >
+            <h2>The Indian Express</h2>
+            <p>Online Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FInuth.jpeg?alt=media&token=6439c735-cb70-4e76-8f5d-985e689194c9"
+            >
+            <h2>InUth</h2>
+            <p>Online Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/wow.jpeg?alt=media&token=6bbb2bb8-55c7-44d1-a7c9-dd39c1d894cf"
+            >
+            <h2>Wow</h2>
+            <p>Official Gift Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FAIO%20Logo.png?alt=media&token=c28987e4-1690-4f31-80ee-497212c6246f"
+            >
+            <h2>Aio TV</h2>
+            <p>Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2Fu25_logo_white%20copy.png?alt=media&token=e3acc2dd-d4d7-4ee8-a5a1-63ef0f9993e6"
+            >
+            <h2>Under 25</h2>
+            <p>Official Youth Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FIndia%20College%20Fest.jpg?alt=media&token=79a062b9-8ffa-4aa4-9f58-b1311ae34c09"
+            >
+            <h2>The College Fever</h2>
+            <p>Online Ticketing Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FAapka%20Times.jpg?alt=media&token=9143fc8c-69b8-4088-a5a4-b6e655e07e2a"
+            >
+            <h2>Aapka Times</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FCampus%20Karma.png?alt=media&token=18a93ef2-2901-41ec-a027-f2685acc68fd"
+            >
+            <h2>Campus Karma</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2Fboldsky%20logo.png?alt=media&token=a7ac1ada-23bb-46e9-949e-abc01970357b"
+            >
+            <h2>Boldsky</h2>
+            <p>Online Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FThe%20Youth%20Chronicle.jpeg?alt=media&token=fde7d887-50c5-4672-97f2-50a1d95d5e8b"
+            >
+            <h2>The Youth Chronicles</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FGirliyapa.jpeg?alt=media&token=e7bc937b-434b-445e-87c3-73dca092711c"
+            >
+            <h2>9XM</h2>
+            <p>Television Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FAwesong-logo.png?alt=media&token=a2d0d653-c201-460a-ba6e-8cabdc2cf49c"
+            >
+            <h2>Awesong</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FHumaramovie.jpg?alt=media&token=91579322-74fa-4dc4-9d6d-cd9323fecf4e"
+            >
+            <h2>Hamaramovie</h2>
+            <p>Short film partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FIyouthmag.jpg?alt=media&token=1c860cc9-9e1a-4abc-bab8-5257b785f139"
+            >
+            <h2>Iyouthmag</h2>
+            <p>Online Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FIndiearth.png?alt=media&token=b73c45a5-ca78-485b-baad-ae60b17b5cea"
+            >
+            <h2>Indiearth</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/RDX%20Goa.png?alt=media&token=f7494f01-9ac2-4666-b33f-df91702356f9"
+            >
+            <h2>RDX Goa</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FBlogadda.jpeg?alt=media&token=23fc370e-da53-4712-b734-db6b35ea551a"
+            >
+            <h2>Blogadda</h2>
+            <p>Blogger Outreach Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FIndia%20College%20Fest.jpg?alt=media&token=79a062b9-8ffa-4aa4-9f58-b1311ae34c09"
+            >
+            <h2>Indiacollegefest</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FQwerty%20Thoughts.png?alt=media&token=f05160c4-cb9a-40fe-a052-7292eef7cfc5"
+            >
+            <h2>Qwetry thoughts</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FInterview%20Buddy.png?alt=media&token=3a7eb04e-5479-4a4e-ba96-0ecf097bf13f"
+            >
+            <h2>Interview Buddy</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Girliyapa.jpg?alt=media&token=db4ea01b-4101-4c93-99aa-06049fcd2378"
+            >
+            <h2>Girliyapa</h2>
+            <p>YouTube Channel Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FInsightone.png?alt=media&token=69bac9ee-fdf0-4031-b321-f3e8c6974dd5"
+            >
+            <h2>Insightone</h2>
+            <p>Associate Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FRedhat%20production.jpg?alt=media&token=21c966c6-f42a-4a8f-bbaa-04fcfb9ac1f0"
+            >
+            <h2>Red Hat Production</h2>
+            <p>Official Coverage Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
+
+
+
+
+
+
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FThe%20verb%20studio.png?alt=media&token=ed93f3c0-678d-4ed6-986d-5595dfd71bc0"
+            >
+            <h2>The Verb Studio</h2>
+            <p>Official Media Partner of Dance Events</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FThe%20media%20tribe.png?alt=media&token=d220fb7c-c521-405e-9560-e302c31f6b56"
+            >
+            <h2>The Media Tribe</h2>
+            <p>Official Recording Studio Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Media%20Releases%2FThe%20Hindu.png?alt=media&token=e74a067b-0663-45ad-9b3b-94caaa66d143"
+            >
+            <h2>The Hindu</h2>
+            <p>Official Media Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+    </div>
 
 
 
