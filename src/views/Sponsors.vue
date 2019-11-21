@@ -89,6 +89,54 @@
 
 
 
+    <div class="quotes">
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box3">
+            <img
+              class="card-image-3"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-assets.appspot.com/o/Past%20Sponsors%2FCopy%20of%20Real.png?alt=media&token=90b5b95f-5a33-46aa-9b33-df60fd6d9359"
+            >
+            <h2>Real’s</h2>
+            <p>Official Beverage Partner</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+      <v-flex
+        sm4
+        xs12
+        class="card-cont"
+      >
+        <div class="card">
+          <div class="box box1">
+            <img
+              class="card-image-2"
+              src="https://firebasestorage.googleapis.com/v0/b/waves-sponsors.appspot.com/o/Princess.jpg?alt=media&token=38a81cd8-2907-4960-915b-679d15eb6447"
+            >
+            <h2>Princess</h2>
+            <p>Official Partner of Waves'19</p>
+          </div>
+          <div class="bg" />
+        </div>
+      </v-flex>
+
+     
+    </div>
+
+
+
+
+
+
+
+
+
 
 
     <div class="quotes">
